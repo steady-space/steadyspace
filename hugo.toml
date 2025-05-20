@@ -19,9 +19,14 @@ theme = "PaperMod"
     weight = 1
 
   [[menu.main]]
+    name = "offerings"
+    url = "/offerings/"
+    weight = 1
+
+  [[menu.main]]
     name = "say hello"
     url = "/say-hello/"
-    weight = 2
+    weight = 1
 
 [markup]
   [markup.goldmark]
