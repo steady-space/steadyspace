@@ -11,8 +11,6 @@ theme = "PaperMod"
 
 [params.assets]
   customCSS = ["css/custom.css"]
-
-[params.assets]
   favicon32x32 = "favicon-32x32.png"
 
 [menu]
