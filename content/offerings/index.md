@@ -11,8 +11,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 ---
 
 ### 🧰 zen and the art of customer support — full toolkit  
-a mindful resource for compassionate support work — rooted in trust, clarity, and warmth.  
-inside: calming language, grounding rituals, and soft templates for creating space (and sanity) in your workflow.  
+a mindful resource for compassionate support work — rooted in trust, clarity, and warmth. inside: calming language, grounding rituals, and soft templates for creating space (and sanity) in your workflow.  
 [🌿 view on gumroad](https://gum.new/gum/cmawsqj8v001b03l18e7k4qpz)
 
 ---
@@ -24,13 +23,11 @@ a quiet peek into my approach to support. you’ll find soothing phrasing, tiny 
 ---
 
 ### 🧘‍♀️ calm job search dashboard  
-a Notion workspace to gently organize your job hunt — with built-in reminders to pause, reflect, and protect your energy.  
-includes goal trackers, reflection prompts, space for gratitude, and subtle nudges toward progress.  
+a Notion workspace to gently organize your job hunt — with built-in reminders to pause, reflect, and protect your energy. includes goal trackers, reflection prompts, space for gratitude, and subtle nudges toward progress.  
 [🌿 view on gumroad](https://steadyspace.gumroad.com/l/calmjobdashboard)
 
 ---
 
 ### 🎨 wild serenity: a coloring escape into nature  
-a quiet creative pause — my Amazon-published coloring book with 50 nature scenes for relaxation.  
-mountains, rivers, wildflowers, forests — a soft place to rest your mind.  
+a quiet creative pause — my Amazon-published coloring book with 50 nature scenes for relaxation. mountains, rivers, wildflowers, forests — a soft place to rest your mind.  
 [📦 view on amazon](https://a.co/d/gyfYdS7)
