@@ -1,6 +1,6 @@
 # steady space
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6e745439-4091-4a70-b4f6-b90664f3219e/deploy-status)](https://app.netlify.com/projects/steadyspace/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/36b2b265-4599-4cb5-ad4f-4a15a5044e65/deploy-status)](https://app.netlify.com/projects/steadyspace/deploys)
 ![Built with Hugo](https://img.shields.io/badge/built%20with-hugo-ff4088?style=flat-square&logo=hugo)
 ![calmly deployed](https://img.shields.io/badge/deployed-calmly-7FB3A3?style=flat-square&logo=netlify)
 ![Made with 💜](https://img.shields.io/badge/made%20with-%F0%9F%92%9C-lightgrey?style=flat-square)
