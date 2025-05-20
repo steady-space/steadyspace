@@ -7,6 +7,10 @@ theme = "PaperMod"
   env = "production"
   description = "a calming hub of digital tools and gentle guidance."
   defaultTheme = "auto"
+  mainSections = ["field-notes"]
+
+[params.assets]
+  customCSS = ["css/custom.css"]
 
 [menu]
   [[menu.main]]
