@@ -1,4 +1,4 @@
-:root {
-  --theme: #f8f4f0 !important;
-  --theme-bg: #f8f4f0 !important;
+/* Apply soft background only in light mode */
+body:not(.dark) {
+  background-color: #f8f4f0 !important;
 }
