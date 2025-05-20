@@ -2,6 +2,8 @@
 title = "say hello"
 draft = false
 type = "page"
+[params]
+  hideTitle = true
 +++
 
 need to reach out? ask something? share a kind word?  
