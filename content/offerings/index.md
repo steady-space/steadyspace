@@ -10,9 +10,9 @@ gentle resources, thoughtful tools, and quiet little helpers.
 
 ---
 
-### 🧰 zen and the art of customer support toolkit 
+### 🧰 zen and the art of customer support - full toolkit 
 a mindful resource for compassionate customer support, rooted in trust, clarity, and warmth.  
-[🌿 view on gumroad](https://steadyspace.gumroad.com/l/zensupport)
+[🌿 view on gumroad](https://gum.new/gum/cmawsqj8v001b03l18e7k4qpz)
 
 ---
 
