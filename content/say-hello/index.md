@@ -2,15 +2,12 @@
 title = "say hello"
 draft = false
 type = "page"
-
-[params]
-  hideTitle = true
 +++
 
 need to reach out? ask something? share a kind word?  
 🌿 this little form’s here for you.
 
-<div style="margin-top: -2rem;">
+<div style="margin-top:-1.5rem;">
   <iframe
     src="https://tally.so/r/mOy0X8"
     loading="lazy"
