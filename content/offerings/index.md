@@ -30,13 +30,13 @@ a quiet collection of grounding questions and prompts for when everything feels 
 
 ### 🧰 zen and the art of customer support — full toolkit  
 a mindful resource for compassionate support work — rooted in trust, clarity, and warmth. inside: calming language, grounding rituals, and soft templates for creating space (and sanity) in your workflow.  
-[🌿 view on gumroad](https://gum.new/gum/cmawsqj8v001b03l18e7k4qpz)
+[🌿 view on gumroad](https://steadyspace.gumroad.com/l/zensupport)
 
 ---
 
 ### ✨ zen and the art of customer support — free sample chapter  
 a quiet peek into my approach to support. you’ll find soothing phrasing, tiny mindset shifts, and tools to stay grounded while helping others.  
-[🌿 quick download](https://gum.new/gum/cmawrui6z000x03l1bmekfw6i)
+[🌿 quick download](https://steadyspace.gumroad.com/l/zen-sample)
 
 ---
 
