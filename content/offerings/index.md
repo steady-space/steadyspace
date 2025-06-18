@@ -22,6 +22,12 @@ a Notion workspace to gently organize your job hunt — with built-in reminders 
 
 ---
 
+### 🌀 calm in the chaos
+a quiet collection of grounding questions and prompts for when everything feels too loud. built in Notion to help you slow down, listen inward, and find steadiness — even mid-spiral.  
+[🌿 view on gumroad](https://steadyspace.gumroad.com/l/calminthechaos)
+
+---
+
 ### 🧰 zen and the art of customer support — full toolkit  
 a mindful resource for compassionate support work — rooted in trust, clarity, and warmth. inside: calming language, grounding rituals, and soft templates for creating space (and sanity) in your workflow.  
 [🌿 view on gumroad](https://gum.new/gum/cmawsqj8v001b03l18e7k4qpz)
