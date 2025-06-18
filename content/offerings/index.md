@@ -11,7 +11,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 ---
 
 ### 🛠️ calm & clear job search toolkit
-a Notion-based practical, thoughtful toolkit for reaching out with clarity and confidence. includes human-sounding email templates, resume tips, and a tone guide for writing that actually sounds like *you*. pairs perfectly with the free dashboard.
+a Notion-based practical, thoughtful toolkit for reaching out with clarity and confidence. includes human-sounding email templates, resume tips, and a tone guide for writing that actually sounds like *you*. pairs perfectly with the free dashboard.  
 [🌿 view on gumroad](https://steadyspace.gumroad.com/l/calmjobtoolkit)
 
 ---
