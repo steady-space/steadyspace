@@ -16,7 +16,7 @@ a Notion-based practical, thoughtful toolkit for reaching out with clarity and c
 
 ---
 
-### 🧘‍♀️ calm job search dashboard  
+### 🧘‍♀️ calm & clear job search dashboard  
 a Notion workspace to gently organize your job hunt — with built-in reminders to pause, reflect, and protect your energy. includes goal trackers, reflection prompts, space for gratitude, and subtle nudges toward progress.  
 [🌿 view on gumroad](https://steadyspace.gumroad.com/l/calmjobdashboard)
 
