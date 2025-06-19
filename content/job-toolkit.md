@@ -32,7 +32,6 @@ A free Notion template to help you track job applications, prep for interviews, 
 
 ---
 
-👉 [**View on Gumroad**](https://steadyspace.gumroad.com/l/calmjobtoolkit)
-
-<iframe src="https://gumroad.com/l/calmjobtoolkit?wanted=true" frameborder="0" width="100%" height="600"></iframe>
-
+<div style="text-align: center; margin-top: 1.5rem;">
+  <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/calmjobtoolkit">Get the Toolkit</a>
+</div>
