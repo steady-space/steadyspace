@@ -49,8 +49,6 @@ You don’t need a viral resume or a perfect brand. Just a clear ask, the right 
 ### ✨ Built in Notion  
 Everything is easy to copy, customize, or edit. Whether you're job searching at 2pm or 2am, it’s made to meet you where you are — without pressure.
 
----
-
 <div style="text-align: center; margin-top: 2rem;">
   <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/calmjobtoolkit">Get the Toolkit</a>
   <p style="font-size: 0.9rem; color: #777;">Built for Notion · Instant access · $19</p>
