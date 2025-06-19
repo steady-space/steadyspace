@@ -21,28 +21,28 @@ keywords = [
 ### ✅ What’s Inside
 
 #### 🧠 Mini Guide: How to Personalize Your Emails  
-Clear tips to sound more human and less robotic — without spending hours rewording everything.
+Quick tweaks to help you sound more human — not robotic. No “personal brand” required.
 
 #### 📄 Resume Quick-Check Cheatsheet  
-- A simple checklist to make sure your resume supports your message  
-- A clean layout to start from if needed  
-- A filled-in sample that’s realistic but solid
+- A checklist to make sure your resume supports your message  
+- A clean starter layout
+- A filled-in sample that’s solid and realistic
 
 #### 📬 Email Templates for Before You Apply  
 - Referral requests  
 - Cold outreach to hiring managers  
-- Subject line ideas + tone suggestions
+- Subject line ideas + tone tips
 
 #### ✉️ Follow-Ups + Recruiter Nudges (After You Apply)  
-- Thoughtful follow-ups to recruiters, referrers, and hiring managers  
-- Polite persistence without being pushy  
-- Multiple tone options (friendly, professional, warm, etc.)
+- Polite nudges to recruiters, referrers, and hiring managers
+- Gentle persistence without being pushy
+- Multiple tone options: friendly, professional, warm, etc.
 
 #### ❌ Burn-It-Down Rewrites  
-Real “please don’t send this” examples — and how to fix them without sounding fake
+Real “please don’t send this” examples — and how to fix them (without sounding fake)
 
 #### 🌿 Wrap-Up + Encouragement  
-You don’t need a viral resume or a personal brand. Just a clear ask, the right tone, and some self-kindness.
+You don’t need a viral resume or a perfect brand. Just a clear ask, the right tone, and some self-kindness.
 
 ---
 
