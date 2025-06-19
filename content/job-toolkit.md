@@ -5,8 +5,11 @@ slug = "job-toolkit"
 type = "page"
 draft = false
 keywords = [  
-    "job search", "resume tips", "email templates", "notion toolkit", "job application help", "job search anxiety", "burnout recovery", "gentle productivity", "mindful job search", "job search self-care", "healing from layoff", "mental health resources for unemployment", "support for job seekers", "emotional support during job search", "job hunting mental health"
- ]
+  "job search", "resume tips", "email templates", "notion toolkit", "job application help",
+  "job search anxiety", "burnout recovery", "gentle productivity", "mindful job search",
+  "job search self-care", "healing from layoff", "mental health resources for unemployment",
+  "support for job seekers", "emotional support during job search", "job hunting mental health"
+]
 +++
 
 ![Toolkit Preview](/images/job-toolkit/job-toolkit-cover.png)
@@ -48,11 +51,15 @@ Everything is easy to copy, customize, or edit. Whether you're job searching at 
 
 ---
 
-### 🧘‍♀️ Pairs Perfectly With  
-[**Calm & Clear Job Search Dashboard →**](https://steadyspace.gumroad.com/l/calmjobdashboard)  
-A free Notion template to help you track job applications, prep for interviews, and stay grounded during the search.
-
 <div style="text-align: center; margin-top: 2rem;">
   <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/calmjobtoolkit">Get the Toolkit</a>
   <p style="font-size: 0.9rem; color: #777;">Built for Notion · Instant access · $19</p>
 </div>
+
+---
+
+### 🌱 Bonus Resource  
+Want a gentle way to track your progress?  
+Check out the free companion:  
+[**Calm & Clear Job Search Dashboard →**](https://steadyspace.gumroad.com/l/calmjobdashboard)  
+A Notion template to help you track job applications, prep for interviews, and stay grounded during the search.
