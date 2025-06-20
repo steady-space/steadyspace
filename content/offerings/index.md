@@ -163,3 +163,10 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     });
   });
 </script>
+
+<hr>
+
+<p class="footer-cta">
+  Got questions or feedback? <a href="/say-hello">Say hello →</a><br>
+  More soft tools are on the way 🌙
+</p>

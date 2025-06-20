@@ -44,3 +44,17 @@ body:not(.dark) {
   white-space: nowrap;
   border: 1px solid rgba(0, 0, 0, 0.05);
 }
+
+.footer-cta {
+  text-align: center;
+  font-size: 0.95rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  color: var(--secondary);
+}
+
+.footer-cta a {
+  text-decoration: underline;
+  font-weight: 500;
+  color: var(--primary);
+}
