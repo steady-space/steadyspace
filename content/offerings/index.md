@@ -16,6 +16,8 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <a href="#printables">🖨️ Printables</a>
 </div>
 
+<h2 id="job-tools">🔧 Toolkits</h2>
+
 <hr>
 
 <div class="offering">
@@ -45,21 +47,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   </div>
 </div>
 
----
-
-<div class="offering">
-  <img src="/images/calm-chaos/calm-chaos-thumb.png" alt="Calm in the Chaos thumbnail" class="thumbnail" />
-
-  <div class="offering-text">
-    <h3>🌀 Calm in the Chaos</h3>
-    <p>a quiet collection of grounding questions and prompts for when everything feels too loud. built in Notion to help you slow down, listen inward, and find steadiness — even mid-spiral.</p>
-    <p>
-      <a href="https://steadyspace.gumroad.com/l/calminthechaos">🌿 view on gumroad</a>
-    </p>
-  </div>
-</div>
-
----
+<hr>
 
 <div class="offering">
   <img src="/images/zen-support/zen-support-full-thumb.png" alt="Zen and the Art of Customer Support Toolkit thumbnail" class="thumbnail" />
@@ -73,7 +61,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   </div>
 </div>
 
----
+<h2 id="freebies">✨ Freebies</h2>
+
+<hr>
 
 <div class="offering">
   <img src="/images/zen-support-sample/zen-sample-thumb.png" alt="Zen Support Sample Chapter thumbnail" class="thumbnail" />
@@ -87,7 +77,23 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   </div>
 </div>
 
----
+<h2 id="printables">🖨 Printables</h2>
+
+<hr>
+
+<div class="offering">
+  <img src="/images/calm-chaos-thumb.png" alt="Calm in the Chaos thumbnail" class="thumbnail" />
+
+  <div class="offering-text">
+    <h3>🖨️ Calm in the Chaos</h3>
+    <p>a single-page printable for grounding yourself when everything feels too loud. includes calming prompts, a gentle breathing pattern, and simple checklists to help you reset. keep it nearby, revisit when needed.</p>
+    <p>
+      <a href="https://steadyspace.gumroad.com/l/calminthechaos">🌿 quick download</a>
+    </p>
+  </div>
+</div>
+
+<h2>
 
 <div class="offering">
   <img src="/images/wild-serenity/wild-serenity-thumb.png" alt="Wild Serenity Coloring Book thumbnail" class="thumbnail" />
