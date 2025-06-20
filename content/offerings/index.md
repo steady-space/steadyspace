@@ -58,8 +58,8 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
         <span class="tag">🌱 Gentle guidance</span>
       </div>
       <p>
-        <a href="https://steadyspace.net/job-toolkit">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/calmjobtoolkit">🛒 buy on gumroad</a>
+        <a href="https://steadyspace.net/job-dashboard">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/calmjobdashboard">🛒 buy on gumroad</a>
       </p>
     </div>
   </div>
