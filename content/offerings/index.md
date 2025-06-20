@@ -99,7 +99,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
-        <a href="https://steadyspace.net/zen-sample">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.net/zen-support-sample">🌿 view full details</a> &nbsp; &nbsp;
         <a href="https://steadyspace.gumroad.com/l/zen-sample">🛒 buy on gumroad</a>
       </p>
       </p>
