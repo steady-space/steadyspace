@@ -9,7 +9,7 @@ body:not(.dark) {
   gap: 1rem;
   margin: 2rem 0;
   align-items: flex-start;
-  background-color: var(--card-bg); /* or a soft beige/gray */
+  background-color: var(--card-bg);
   padding: 1.5rem;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.04);
@@ -45,6 +45,7 @@ body:not(.dark) {
   border: 1px solid rgba(0, 0, 0, 0.05);
 }
 
+/* Footer call-to-action */
 .footer-cta {
   text-align: center;
   font-size: 0.95rem;
@@ -59,6 +60,7 @@ body:not(.dark) {
   color: var(--primary);
 }
 
+/* Header container for TOC and Filter */
 .offerings-header {
   display: flex;
   flex-direction: column;
@@ -66,17 +68,26 @@ body:not(.dark) {
   margin-bottom: 2rem;
 }
 
+/* Shared styles for both TOC and Filter bars */
 .offerings-toc,
 .offerings-filter {
   background: #f8f6f2;
   padding: 0.75rem 1rem;
-  border-radius: 8px;
+  border-radius: 10px;
   font-size: 0.9rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 0.4rem;
+}
+
+/* Optional soft divider between stacked bars */
+.offerings-header > *:not(:last-child) {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+.dark .offerings-header > *:not(:last-child) {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
 }
 
 .offerings-toc strong,
@@ -90,6 +101,11 @@ body:not(.dark) {
   text-decoration: underline;
   font-weight: 500;
   margin: 0 0.25rem;
+}
+
+/* Improve link visibility in dark mode */
+.dark .offerings-toc a {
+  color: var(--primary);
 }
 
 .offerings-filter button {
@@ -106,4 +122,13 @@ body:not(.dark) {
 .offerings-filter button.active {
   background: var(--entry);
   color: var(--primary);
+}
+
+/* Responsive fix: stack filter bar on small screens */
+@media (max-width: 600px) {
+  .offerings-filter {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
 }
