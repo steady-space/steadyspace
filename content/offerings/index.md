@@ -16,11 +16,19 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <a href="#printables">🖨️ Printables</a>
 </div>
 
+<div class="offerings-filter">
+  <strong>Filter:</strong>
+  <button data-filter="all" class="active">All</button>
+  <button data-filter="toolkits">Toolkits</button>
+  <button data-filter="freebies">Freebies</button>
+  <button data-filter="printables">Printables</button>
+</div>
+
 <h2 id="job-tools">🔧 Toolkits</h2>
 
 <hr>
 
-<div class="offering">
+<div class="offering" data-category="toolkits">
   <img src="/images/job-toolkit/job-toolkit-thumb.png" alt="Calm & Clear Job Search Toolkit thumbnail" class="thumbnail" />
 
   <div class="offering-text">
@@ -33,9 +41,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   </div>
 </div>
 
----
+<hr>
 
-<div class="offering">
+<div class="offering" data-category="toolkits">
   <img src="/images/job-dashboard/job-search-dashboard-thumb.png" alt="Calm & Clear Job Search Dashboard thumbnail" class="thumbnail" />
 
   <div class="offering-text">
@@ -49,7 +57,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 <hr>
 
-<div class="offering">
+<div class="offering" data-category="toolkits">
   <img src="/images/zen-support/zen-support-full-thumb.png" alt="Zen and the Art of Customer Support Toolkit thumbnail" class="thumbnail" />
 
   <div class="offering-text">
@@ -65,7 +73,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 <hr>
 
-<div class="offering">
+<div class="offering" data-category="freebies">
   <img src="/images/zen-support-sample/zen-sample-thumb.png" alt="Zen Support Sample Chapter thumbnail" class="thumbnail" />
 
   <div class="offering-text">
@@ -81,7 +89,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 <hr>
 
-<div class="offering">
+<div class="offering" data-category="printables">
   <img src="/images/calm-chaos/calm-chaos-thumb.png" alt="Calm in the Chaos thumbnail" class="thumbnail" />
 
   <div class="offering-text">
@@ -95,7 +103,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 <hr>
 
-<div class="offering">
+<div class="offering" data-category="printables">
   <img src="/images/wild-serenity/wild-serenity-thumb.png" alt="Wild Serenity Coloring Book thumbnail" class="thumbnail" />
 
   <div class="offering-text">
