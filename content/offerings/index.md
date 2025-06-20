@@ -93,7 +93,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   </div>
 </div>
 
-<h2>
+<hr>
 
 <div class="offering">
   <img src="/images/wild-serenity/wild-serenity-thumb.png" alt="Wild Serenity Coloring Book thumbnail" class="thumbnail" />
