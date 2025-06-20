@@ -82,7 +82,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 <hr>
 
 <div class="offering">
-  <img src="/images/calm-chaos-thumb.png" alt="Calm in the Chaos thumbnail" class="thumbnail" />
+  <img src="/images/calm-chaos/calm-chaos-thumb.png" alt="Calm in the Chaos thumbnail" class="thumbnail" />
 
   <div class="offering-text">
     <h3>🖨️ Calm in the Chaos</h3>
