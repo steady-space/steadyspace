@@ -25,9 +25,17 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 ---
 
-### 🧘‍♀️ calm & clear job search dashboard  
-a Notion workspace to gently organize your job hunt — with built-in reminders to pause, reflect, and protect your energy. includes goal trackers, reflection prompts, space for gratitude, and subtle nudges toward progress.  
-[🌿 view on gumroad](https://steadyspace.gumroad.com/l/calmjobdashboard)
+<div class="offering">
+  <img src="/images/job-dashboard/job-search-dashboard-thumb.png" alt="Calm & Clear Job Search Dashboard thumbnail" class="thumbnail" />
+
+  <div class="offering-text">
+    <h3>🧘‍♀️ Calm & Clear Job Search Dashboard</h3>
+    <p>a Notion workspace to gently organize your job hunt — with built-in reminders to pause, reflect, and protect your energy. includes goal trackers, reflection prompts, space for gratitude, and subtle nudges toward progress.</p>
+    <p>
+      <a href="https://steadyspace.gumroad.com/l/calmjobdashboard">🌿 view on gumroad</a>
+    </p>
+  </div>
+</div>
 
 ---
 
