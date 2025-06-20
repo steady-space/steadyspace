@@ -59,53 +59,44 @@ body:not(.dark) {
   color: var(--primary);
 }
 
-.offerings-toc {
-  font-size: 0.9rem;
-  background: #f8f6f2; /* slightly lighter than filter bg */
+.offerings-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.offerings-toc,
+.offerings-filter {
+  background: #f8f6f2;
   padding: 0.75rem 1rem;
   border-radius: 8px;
-  margin-bottom: 0.75rem;
+  font-size: 0.9rem;
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
-  align-items: center;
   justify-content: center;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.offerings-toc strong,
+.offerings-filter strong {
+  font-weight: 500;
+  margin-right: 0.25rem;
+  white-space: nowrap;
 }
 
 .offerings-toc a {
   text-decoration: underline;
-  margin: 0 0.25rem;
   font-weight: 500;
-}
-
-.offerings-toc strong {
-  font-weight: 600;
-  margin-right: 0.5rem;
-}
-
-.offerings-filter {
-  font-size: 0.9rem;
-  background: #f3f1ec;
-  padding: 0.75rem 1rem;
-  border-radius: 8px;
-  margin-bottom: 2rem;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-}
-
-.offerings-filter strong {
-  font-weight: 600;
-  margin-right: 0.5rem;
+  margin: 0 0.25rem;
 }
 
 .offerings-filter button {
   font-size: 0.85rem;
   background: transparent;
   border: none;
-  padding: 0.25rem 0.75rem;
+  padding: 0.3rem 0.8rem;
   border-radius: 6px;
   cursor: pointer;
   transition: background 0.2s ease;
