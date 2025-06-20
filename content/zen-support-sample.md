@@ -43,6 +43,6 @@ keywords = [
 
 ### 📦 Want the Full Toolkit?
 
-Get the full version of *Zen and the Art of Customer Support* — including 50+ pages of calm, clear guidance, journaling prompts, and tone tools.
+Get the full version of *Zen and the Art of Customer Support* — including 90+ pages of calm, clear guidance, journaling prompts, and tone tools.
 
 [**View the Full Toolkit →**](/zen-support)
