@@ -115,3 +115,24 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   </div>
 </div>
 
+<script>
+  const filterButtons = document.querySelectorAll('.offerings-filter button');
+  const offerings = document.querySelectorAll('.offering');
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      const category = button.dataset.filter;
+
+      filterButtons.forEach(btn => btn.classList.remove('active'));
+      button.classList.add('active');
+
+      offerings.forEach(block => {
+        if (category === 'all' || block.dataset.category === category) {
+          block.style.display = 'flex';
+        } else {
+          block.style.display = 'none';
+        }
+      });
+    });
+  });
+</script>
