@@ -8,7 +8,15 @@ type = "page"
 
 gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
----
+<div class="offerings-toc">
+  <strong>Jump to:</strong>
+  <a href="#job-tools">🔧 Toolkits</a> |
+  <a href="#guides">🧠 Guides</a> |
+  <a href="#freebies">✨ Freebies</a> |
+  <a href="#printables">🖨️ Printables</a>
+</div>
+
+<hr>
 
 <div class="offering">
   <img src="/images/job-toolkit/job-toolkit-thumb.png" alt="Calm & Clear Job Search Toolkit thumbnail" class="thumbnail" />
