@@ -29,6 +29,7 @@ body:not(.dark) {
 
 .tags {
   margin-top: 0.5rem;
+  margin-bottom: 1rem;
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
