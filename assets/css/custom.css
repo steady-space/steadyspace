@@ -16,12 +16,10 @@ body:not(.dark) {
 }
 
 .thumbnail {
-  width: 100px;
-  max-width: 100%;
-  height: auto;
+  width: 100px !important;
+  height: auto !important;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
-  margin-top: 0.25rem;
 }
 
 .offering-text {
