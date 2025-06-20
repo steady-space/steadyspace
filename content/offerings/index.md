@@ -141,6 +141,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
         <span class="tag">🧘 Quiet relaxation</span>
       </div>
       <p>
+        <a href="https://steadyspace.net/wild-serenity">🌿 view full details</a> &nbsp; &nbsp;
         <a href="https://a.co/d/dgmfU5n">📦 view on amazon</a>
       </p>
     </div>
