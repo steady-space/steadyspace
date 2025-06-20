@@ -44,6 +44,7 @@ Whether you're just beginning or in the thick of it, this dashboard helps you st
 
 ---
 
-### ✨ Want More Support?  
-This dashboard is also included in the [**Calm & Clear Job Search Toolkit →**](/job-toolkit),  
-which includes a mini email-writing guide, resume cheatsheet, and message templates to help you reach out with clarity and confidence.
+### ✨ Pair it with the Toolkit  
+If you want templates and tone guidance for reaching out with confidence,  
+the [**Calm & Clear Job Search Toolkit →**](/job-toolkit) is a great companion.  
+It’s filled with email examples, resume tips, and soft encouragement to help you find the right words.
