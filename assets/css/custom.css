@@ -26,3 +26,20 @@ body:not(.dark) {
   flex: 1;
   max-width: 600px;
 }
+
+.tags {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.tag {
+  font-size: 0.75rem;
+  background-color: var(--entry);
+  padding: 0.25rem 0.6rem;
+  border-radius: 1rem;
+  color: var(--primary);
+  white-space: nowrap;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
