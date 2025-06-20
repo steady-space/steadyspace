@@ -61,7 +61,21 @@ body:not(.dark) {
 
 .offerings-toc {
   font-size: 0.9rem;
-  margin-bottom: 0.75rem; /* 👈 reduced */
+  background: #f3f1ec; /* same pastel as filter */
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.offerings-toc a {
+  text-decoration: underline;
+  margin: 0 0.25rem;
+  font-weight: 500;
+}
+
+.offerings-toc strong {
+  margin-right: 0.5rem;
+  font-weight: 500;
 }
 
 .offerings-filter {
