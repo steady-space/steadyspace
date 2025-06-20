@@ -24,100 +24,97 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <button data-filter="printables">Printables</button>
 </div>
 
-<h2 id="job-tools">🔧 Toolkits</h2>
+<div class="category-group" data-category="toolkits">
+  <h2 id="job-tools">🔧 Toolkits</h2>
+  <hr>
 
-<hr>
+  <div class="offering" data-category="toolkits">
+    <img src="/images/job-toolkit/job-toolkit-thumb.png" alt="Calm & Clear Job Search Toolkit thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🛠️ Calm & Clear Job Search Toolkit</h3>
+      <p>a Notion-based practical, thoughtful toolkit for reaching out with clarity and confidence. includes human-sounding email templates, resume tips, and a tone guide for writing that actually sounds like <em>you</em>. pairs perfectly with the free dashboard.</p>
+      <p>
+        <a href="https://steadyspace.net/job-toolkit">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/calmjobtoolkit">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
 
-<div class="offering" data-category="toolkits">
-  <img src="/images/job-toolkit/job-toolkit-thumb.png" alt="Calm & Clear Job Search Toolkit thumbnail" class="thumbnail" />
+  <hr>
 
-  <div class="offering-text">
-    <h3>🛠️ Calm & Clear Job Search Toolkit</h3>
-    <p>a Notion-based practical, thoughtful toolkit for reaching out with clarity and confidence. includes human-sounding email templates, resume tips, and a tone guide for writing that actually sounds like <em>you</em>. pairs perfectly with the free dashboard.</p>
-    <p>
-      <a href="https://steadyspace.net/job-toolkit">🌿 view full details</a> &nbsp; &nbsp;
-      <a href="https://steadyspace.gumroad.com/l/calmjobtoolkit">🛒 buy on gumroad</a>
-    </p>
+  <div class="offering" data-category="toolkits">
+    <img src="/images/job-dashboard/job-search-dashboard-thumb.png" alt="Calm & Clear Job Search Dashboard thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🧘‍♀️ Calm & Clear Job Search Dashboard</h3>
+      <p>a Notion workspace to gently organize your job hunt — with built-in reminders to pause, reflect, and protect your energy. includes goal trackers, reflection prompts, space for gratitude, and subtle nudges toward progress.</p>
+      <p>
+        <a href="https://steadyspace.gumroad.com/l/calmjobdashboard">🌿 view on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="toolkits">
+    <img src="/images/zen-support/zen-support-full-thumb.png" alt="Zen and the Art of Customer Support Toolkit thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🧰 Zen and the Art of Customer Support — Full Toolkit</h3>
+      <p>a mindful resource for compassionate support work — rooted in trust, clarity, and warmth. inside: calming language, grounding rituals, and soft templates for creating space (and sanity) in your workflow.</p>
+      <p>
+        <a href="https://steadyspace.gumroad.com/l/zensupport">🌿 view on gumroad</a>
+      </p>
+    </div>
   </div>
 </div>
 
-<hr>
+<div class="category-group" data-category="freebies">
+  <h2 id="freebies">✨ Freebies</h2>
+  <hr>
 
-<div class="offering" data-category="toolkits">
-  <img src="/images/job-dashboard/job-search-dashboard-thumb.png" alt="Calm & Clear Job Search Dashboard thumbnail" class="thumbnail" />
-
-  <div class="offering-text">
-    <h3>🧘‍♀️ Calm & Clear Job Search Dashboard</h3>
-    <p>a Notion workspace to gently organize your job hunt — with built-in reminders to pause, reflect, and protect your energy. includes goal trackers, reflection prompts, space for gratitude, and subtle nudges toward progress.</p>
-    <p>
-      <a href="https://steadyspace.gumroad.com/l/calmjobdashboard">🌿 view on gumroad</a>
-    </p>
+  <div class="offering" data-category="freebies">
+    <img src="/images/zen-support-sample/zen-sample-thumb.png" alt="Zen Support Sample Chapter thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>✨ Zen and the Art of Customer Support — Free Sample Chapter</h3>
+      <p>a quiet peek into my approach to support. you’ll find soothing phrasing, tiny mindset shifts, and tools to stay grounded while helping others.</p>
+      <p>
+        <a href="https://steadyspace.gumroad.com/l/zen-sample">🌿 quick download</a>
+      </p>
+    </div>
   </div>
 </div>
 
-<hr>
+<div class="category-group" data-category="printables">
+  <h2 id="printables">🖨 Printables</h2>
+  <hr>
 
-<div class="offering" data-category="toolkits">
-  <img src="/images/zen-support/zen-support-full-thumb.png" alt="Zen and the Art of Customer Support Toolkit thumbnail" class="thumbnail" />
-
-  <div class="offering-text">
-    <h3>🧰 Zen and the Art of Customer Support — Full Toolkit</h3>
-    <p>a mindful resource for compassionate support work — rooted in trust, clarity, and warmth. inside: calming language, grounding rituals, and soft templates for creating space (and sanity) in your workflow.</p>
-    <p>
-      <a href="https://steadyspace.gumroad.com/l/zensupport">🌿 view on gumroad</a>
-    </p>
+  <div class="offering" data-category="printables">
+    <img src="/images/calm-chaos/calm-chaos-thumb.png" alt="Calm in the Chaos thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🖨️ Calm in the Chaos</h3>
+      <p>a single-page printable for grounding yourself when everything feels too loud. includes calming prompts, a gentle breathing pattern, and simple checklists to help you reset. keep it nearby, revisit when needed.</p>
+      <p>
+        <a href="https://steadyspace.gumroad.com/l/calminthechaos">🌿 quick download</a>
+      </p>
+    </div>
   </div>
-</div>
 
-<h2 id="freebies">✨ Freebies</h2>
+  <hr>
 
-<hr>
-
-<div class="offering" data-category="freebies">
-  <img src="/images/zen-support-sample/zen-sample-thumb.png" alt="Zen Support Sample Chapter thumbnail" class="thumbnail" />
-
-  <div class="offering-text">
-    <h3>✨ Zen and the Art of Customer Support — Free Sample Chapter</h3>
-    <p>a quiet peek into my approach to support. you’ll find soothing phrasing, tiny mindset shifts, and tools to stay grounded while helping others.</p>
-    <p>
-      <a href="https://steadyspace.gumroad.com/l/zen-sample">🌿 quick download</a>
-    </p>
-  </div>
-</div>
-
-<h2 id="printables">🖨 Printables</h2>
-
-<hr>
-
-<div class="offering" data-category="printables">
-  <img src="/images/calm-chaos/calm-chaos-thumb.png" alt="Calm in the Chaos thumbnail" class="thumbnail" />
-
-  <div class="offering-text">
-    <h3>🖨️ Calm in the Chaos</h3>
-    <p>a single-page printable for grounding yourself when everything feels too loud. includes calming prompts, a gentle breathing pattern, and simple checklists to help you reset. keep it nearby, revisit when needed.</p>
-    <p>
-      <a href="https://steadyspace.gumroad.com/l/calminthechaos">🌿 quick download</a>
-    </p>
-  </div>
-</div>
-
-<hr>
-
-<div class="offering" data-category="printables">
-  <img src="/images/wild-serenity/wild-serenity-thumb.png" alt="Wild Serenity Coloring Book thumbnail" class="thumbnail" />
-
-  <div class="offering-text">
-    <h3>🎨 Wild Serenity: A Coloring Escape into Nature</h3>
-    <p>a quiet creative pause — my Amazon-published coloring book with 50 nature scenes for relaxation. mountains, rivers, wildflowers, forests — a soft place to rest your mind.</p>
-    <p>
-      <a href="https://a.co/d/gyfYdS7">📦 view on amazon</a>
-    </p>
+  <div class="offering" data-category="printables">
+    <img src="/images/wild-serenity/wild-serenity-thumb.png" alt="Wild Serenity Coloring Book thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🎨 Wild Serenity: A Coloring Escape into Nature</h3>
+      <p>a quiet creative pause — my Amazon-published coloring book with 50 nature scenes for relaxation. mountains, rivers, wildflowers, forests — a soft place to rest your mind.</p>
+      <p>
+        <a href="https://a.co/d/gyfYdS7">📦 view on amazon</a>
+      </p>
+    </div>
   </div>
 </div>
 
 <script>
   const filterButtons = document.querySelectorAll('.offerings-filter button');
-  const offerings = document.querySelectorAll('.offering');
+  const groups = document.querySelectorAll('.category-group');
 
   filterButtons.forEach(button => {
     button.addEventListener('click', () => {
@@ -126,11 +123,11 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       filterButtons.forEach(btn => btn.classList.remove('active'));
       button.classList.add('active');
 
-      offerings.forEach(block => {
-        if (category === 'all' || block.dataset.category === category) {
-          block.style.display = 'flex';
+      groups.forEach(group => {
+        if (category === 'all' || group.dataset.category === category) {
+          group.style.display = 'block';
         } else {
-          block.style.display = 'none';
+          group.style.display = 'none';
         }
       });
     });
