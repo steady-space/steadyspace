@@ -9,7 +9,7 @@ keywords = [
 ]
 +++
 
-![Zen and the Art of Customer Support](/images/zen-support.png)
+![Zen and the Art of Customer Support](/images/zen-support/zen-support.png)
 
 > 💛 How to help people without burning out, going robotic, or losing yourself.
 
