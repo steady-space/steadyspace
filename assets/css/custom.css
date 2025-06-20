@@ -61,10 +61,15 @@ body:not(.dark) {
 
 .offerings-toc {
   font-size: 0.9rem;
-  background: #f3f1ec; /* same pastel as filter */
+  background: #f8f6f2; /* slightly lighter than filter bg */
   padding: 0.75rem 1rem;
   border-radius: 8px;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  align-items: center;
+  justify-content: center;
 }
 
 .offerings-toc a {
@@ -74,20 +79,25 @@ body:not(.dark) {
 }
 
 .offerings-toc strong {
+  font-weight: 600;
   margin-right: 0.5rem;
-  font-weight: 500;
 }
 
 .offerings-filter {
   font-size: 0.9rem;
-  background: #f3f1ec; /* 🩰 soft beige-pink pastel, tweak as desired */
+  background: #f3f1ec;
   padding: 0.75rem 1rem;
   border-radius: 8px;
   margin-bottom: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
 }
 
 .offerings-filter strong {
-  font-weight: 500;
+  font-weight: 600;
   margin-right: 0.5rem;
 }
 
@@ -106,4 +116,3 @@ body:not(.dark) {
   background: var(--entry);
   color: var(--primary);
 }
-
