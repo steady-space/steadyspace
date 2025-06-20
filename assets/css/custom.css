@@ -59,18 +59,37 @@ body:not(.dark) {
   color: var(--primary);
 }
 
-.offerings-toc,
-.offerings-filter {
+.offerings-toc {
   font-size: 0.9rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem; /* 👈 reduced */
 }
 
-.offerings-filter strong,
-.offerings-toc strong {
+.offerings-filter {
+  font-size: 0.9rem;
+  background: #f3f1ec; /* 🩰 soft beige-pink pastel, tweak as desired */
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.offerings-filter strong {
   font-weight: 500;
   margin-right: 0.5rem;
 }
 
 .offerings-filter button {
   font-size: 0.85rem;
+  background: transparent;
+  border: none;
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s ease;
 }
+
+.offerings-filter button:hover,
+.offerings-filter button.active {
+  background: var(--entry);
+  color: var(--primary);
+}
+
