@@ -60,7 +60,7 @@ Grab the free sample chapter:
 ---
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/zensupport">Get the full bundle</a>
+  <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/zensupport">Get the full kit</a>
   <p style="font-size: 0.9rem; color: #777;">PDF format · Instant access · $29 before discount</p>
 </div>
 
