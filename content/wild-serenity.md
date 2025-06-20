@@ -27,7 +27,7 @@ There’s no pressure. Just space. Line by line, page by page.
 
 ### 🖼️ What’s Inside
 
-- 50 nature-inspired scenes  
+- 50 nature-inspired scenes across 100 pages 
 - Forest paths, quiet meadows, mountain peaks, rivers, and wildflowers  
 - Calm, cozy, and easy-to-color layouts  
 - Printed on white paper, one-sided for less bleed-through  
@@ -38,6 +38,6 @@ Whether you color every page or just a few, this book is here when you need it.
 ---
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a class="gumroad-button" href="https://a.co/d/gyfYdS7">View on Amazon</a>
-  <p style="font-size: 0.9rem; color: #777;">Paperback · 50 pages · Published via Amazon KDP</p>
+  <a class="gumroad-button" href="https://a.co/d/g6N3FDc">View on Amazon</a>
+  <p style="font-size: 0.9rem; color: #777;">Paperback · 100 pages (50 images) · Published via Amazon KDP</p>
 </div>
