@@ -75,6 +75,8 @@ body:not(.dark) {
   padding: 0.75rem 1rem;
   border-radius: 10px;
   font-size: 0.9rem;
+  line-height: 1.4;
+  min-height: 60px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -89,7 +91,7 @@ body:not(.dark) {
   color: var(--primary);
 }
 
-/* Divider between TOC and filter if stacked */
+/* Optional divider between stacked TOC and filter */
 .offerings-header > *:not(:last-child) {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
