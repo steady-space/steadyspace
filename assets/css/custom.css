@@ -58,3 +58,19 @@ body:not(.dark) {
   font-weight: 500;
   color: var(--primary);
 }
+
+.offerings-toc,
+.offerings-filter {
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+.offerings-filter strong,
+.offerings-toc strong {
+  font-weight: 500;
+  margin-right: 0.5rem;
+}
+
+.offerings-filter button {
+  font-size: 0.85rem;
+}
