@@ -1,49 +1,49 @@
 +++
 title = "Calm & Clear Job Search Dashboard"
-description = "A Notion workspace to gently organize your job hunt — with reminders to pause, reflect, and protect your energy. Includes trackers, prompts, scam tips, and a bonus printable."
+description = "A Notion dashboard template to track applications, stay grounded, and protect your energy during the job search. Includes self-care check-ins, scam awareness tips, and a printable weekly reflection worksheet."
 slug = "job-dashboard"
 type = "page"
 draft = false
-keywords = [  
-  "notion job tracker", "job search dashboard", "job hunt organization",
-  "gentle productivity", "job search template", "emotional job search tools",
-  "mental health for job seekers", "job application tracking", "self-kindness during job hunt"
+keywords = [
+  "job search dashboard", "notion job template", "burnout support",
+  "track job applications", "interview prep notion", "self-care for job seekers",
+  "notion weekly tracker", "job search organization", "gentle productivity",
+  "job scam tips", "printable job tracker", "mental health job hunting"
 ]
 +++
 
-![Dashboard Preview](/images/job-dashboard/job-search-dashboard-cover.png)
+![Dashboard Preview](/images/job-dashboard/job-dashboard-cover.png)
 
-> 🌱 A calmer, more intentional way to job search.
+> 🧘‍♀️ A Notion dashboard to gently organize your job hunt — without the overwhelm.
 
 ---
 
 ### ✅ What’s Inside
 
-#### 📌 Notion Dashboard Template (via shareable link)  
-- Track job applications, follow-ups, and interviews  
-- Stay organized without getting overwhelmed
+#### 🌐 Notion Job Search Dashboard Template  
+Includes sections for application tracking, interview prep, outreach tracking, and progress reflection.
 
-#### ✍️ Weekly Check-In Section  
-- Gentle prompts to reflect on your progress  
-- Space for gratitude, small wins, and emotional check-ins
+#### ✍️ Weekly Check-In Prompts  
+Gentle questions to help you reflect, reset, and notice your own growth — even when the search feels slow.
 
-#### 📆 Micro-Goal Setting  
-- Focus on doable steps  
-- Prioritize progress over perfection
+#### 💡 Scam Awareness + Calm Mode  
+Tips to stay alert (but not anxious) about job scams, along with subtle reminders to protect your energy.
 
-#### 💡 Scam Awareness Tips  
-- Helpful reminders on what to look out for  
-- Includes a dedicated “Calm Mode” section for overwhelm
-
-#### 🖨️ BONUS: Printable Weekly Check-In (PDF)  
-Prefer paper? This printable mirrors the reflection section — perfect for analog moments.
+#### 🖨️ BONUS Printable: Weekly Job Search Check-In  
+Prefer pen and paper? Includes a downloadable PDF version of the check-in worksheet.
 
 ---
 
-### ✨ Built in Notion  
-Easy to copy, customize, and make your own. Whether you're deep in the job search or just getting started, it’s here to help you stay clear, grounded, and supported.
+### 🌱 Designed for Gentle Momentum  
+Whether you're just beginning or in the thick of it, this dashboard helps you stay clear on your next steps — and a little kinder to yourself along the way.
 
 <div style="text-align: center; margin-top: 2rem;">
   <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/calmjobdashboard">Get the Dashboard</a>
-  <p style="font-size: 0.9rem; color: #777;">Pay what you want · Suggested price: $9</p>
+  <p style="font-size: 0.9rem; color: #777;">Pay what you want · Instant access · Built for Notion</p>
 </div>
+
+---
+
+### ✨ Want More Support?  
+This dashboard is also included in the [**Calm & Clear Job Search Toolkit →**](/job-toolkit),  
+which includes a mini email-writing guide, resume cheatsheet, and message templates to help you reach out with clarity and confidence.
