@@ -45,4 +45,4 @@ keywords = [
 
 Get the full version of *Zen and the Art of Customer Support* — including 90+ pages of calm, clear guidance, journaling prompts, and tone tools.
 
-[**View the Full Toolkit →**](/zen-support)
+[**View the Full Bundle →**](/zen-support)
