@@ -12,7 +12,7 @@ keywords = [
 ]
 +++
 
-![Dashboard Preview](/images/job-dashboard/job-dashboard-cover.png)
+![Dashboard Preview](/images/job-dashboard/job-search-dashboard.png)
 
 > 🧘‍♀️ A Notion dashboard to gently organize your job hunt — without the overwhelm.
 
