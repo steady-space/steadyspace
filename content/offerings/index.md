@@ -58,7 +58,8 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
         <span class="tag">🌱 Gentle guidance</span>
       </div>
       <p>
-        <a href="https://steadyspace.gumroad.com/l/calmjobdashboard">🌿 view on gumroad</a>
+        <a href="https://steadyspace.net/job-toolkit">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/calmjobtoolkit">🛒 buy on gumroad</a>
       </p>
     </div>
   </div>
@@ -76,8 +77,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
         <span class="tag">🧘 Mindful workflow</span>
       </div>
       <p>
-        <a href="https://steadyspace.gumroad.com/l/zensupport">🌿 view on gumroad</a>
-      </p>
+            <p>
+        <a href="https://steadyspace.net/job-toolkit">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/calmjobtoolkit">🛒 buy on gumroad</a></p>
     </div>
   </div>
 </div>
@@ -97,7 +99,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
-        <a href="https://steadyspace.gumroad.com/l/zen-sample">🌿 quick download</a>
+        <a href="https://steadyspace.net/zen-support-sample">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/zen-sample">🛒 buy on gumroad</a>
+      </p>
       </p>
     </div>
   </div>
@@ -118,7 +122,8 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
         <span class="tag">🌙 Reset prompts</span>
       </div>
       <p>
-        <a href="https://steadyspace.gumroad.com/l/calminthechaos">🌿 quick download</a>
+        <a href="https://steadyspace.net/calm-in-the-chaos">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/calminthechaos">🛒 buy on gumroad</a>
       </p>
     </div>
   </div>
@@ -136,7 +141,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
         <span class="tag">🧘 Quiet relaxation</span>
       </div>
       <p>
-        <a href="https://a.co/d/gyfYdS7">📦 view on amazon</a>
+        <a href="https://a.co/d/dgmfU5n">📦 view on amazon</a>
       </p>
     </div>
   </div>
