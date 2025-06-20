@@ -67,9 +67,17 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 ---
 
-### ✨ zen and the art of customer support — free sample chapter  
-a quiet peek into my approach to support. you’ll find soothing phrasing, tiny mindset shifts, and tools to stay grounded while helping others.  
-[🌿 quick download](https://steadyspace.gumroad.com/l/zen-sample)
+<div class="offering">
+  <img src="/images/zen-support-sample/zen-sample-thumb.png" alt="Zen Support Sample Chapter thumbnail" class="thumbnail" />
+
+  <div class="offering-text">
+    <h3>✨ Zen and the Art of Customer Support — Free Sample Chapter</h3>
+    <p>a quiet peek into my approach to support. you’ll find soothing phrasing, tiny mindset shifts, and tools to stay grounded while helping others.</p>
+    <p>
+      <a href="https://steadyspace.gumroad.com/l/zen-sample">🌿 quick download</a>
+    </p>
+  </div>
+</div>
 
 ---
 
