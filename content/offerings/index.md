@@ -81,6 +81,15 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 ---
 
-### 🎨 wild serenity: a coloring escape into nature  
-a quiet creative pause — my Amazon-published coloring book with 50 nature scenes for relaxation. mountains, rivers, wildflowers, forests — a soft place to rest your mind.  
-[📦 view on amazon](https://a.co/d/gyfYdS7)
+<div class="offering">
+  <img src="/images/wild-serenity/wild-serenity-thumb.png" alt="Wild Serenity Coloring Book thumbnail" class="thumbnail" />
+
+  <div class="offering-text">
+    <h3>🎨 Wild Serenity: A Coloring Escape into Nature</h3>
+    <p>a quiet creative pause — my Amazon-published coloring book with 50 nature scenes for relaxation. mountains, rivers, wildflowers, forests — a soft place to rest your mind.</p>
+    <p>
+      <a href="https://a.co/d/gyfYdS7">📦 view on amazon</a>
+    </p>
+  </div>
+</div>
+
