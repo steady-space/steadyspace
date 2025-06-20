@@ -39,9 +39,17 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 ---
 
-### 🌀 calm in the chaos
-a quiet collection of grounding questions and prompts for when everything feels too loud. built in Notion to help you slow down, listen inward, and find steadiness — even mid-spiral.  
-[🌿 view on gumroad](https://steadyspace.gumroad.com/l/calminthechaos)
+<div class="offering">
+  <img src="/images/calm-chaos/calm-chaos-thumb.png" alt="Calm in the Chaos thumbnail" class="thumbnail" />
+
+  <div class="offering-text">
+    <h3>🌀 Calm in the Chaos</h3>
+    <p>a quiet collection of grounding questions and prompts for when everything feels too loud. built in Notion to help you slow down, listen inward, and find steadiness — even mid-spiral.</p>
+    <p>
+      <a href="https://steadyspace.gumroad.com/l/calminthechaos">🌿 view on gumroad</a>
+    </p>
+  </div>
+</div>
 
 ---
 
