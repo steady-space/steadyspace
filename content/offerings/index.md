@@ -53,9 +53,17 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 ---
 
-### 🧰 zen and the art of customer support — full toolkit  
-a mindful resource for compassionate support work — rooted in trust, clarity, and warmth. inside: calming language, grounding rituals, and soft templates for creating space (and sanity) in your workflow.  
-[🌿 view on gumroad](https://steadyspace.gumroad.com/l/zensupport)
+<div class="offering">
+  <img src="/images/zen-support/zen-support-full-thumb.png" alt="Zen and the Art of Customer Support Toolkit thumbnail" class="thumbnail" />
+
+  <div class="offering-text">
+    <h3>🧰 Zen and the Art of Customer Support — Full Toolkit</h3>
+    <p>a mindful resource for compassionate support work — rooted in trust, clarity, and warmth. inside: calming language, grounding rituals, and soft templates for creating space (and sanity) in your workflow.</p>
+    <p>
+      <a href="https://steadyspace.gumroad.com/l/zensupport">🌿 view on gumroad</a>
+    </p>
+  </div>
+</div>
 
 ---
 
