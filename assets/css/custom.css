@@ -68,7 +68,7 @@ body:not(.dark) {
   margin-bottom: 2rem;
 }
 
-/* Shared styles for both TOC and Filter bars */
+/* Shared styles */
 .offerings-toc,
 .offerings-filter {
   background: #f8f6f2;
@@ -80,14 +80,21 @@ body:not(.dark) {
   justify-content: center;
   align-items: center;
   gap: 0.4rem;
+  color: var(--primary);
 }
 
-/* Optional soft divider between stacked bars */
+.dark .offerings-toc,
+.dark .offerings-filter {
+  background: #2a2a2d;
+  color: var(--primary);
+}
+
+/* Divider between TOC and filter if stacked */
 .offerings-header > *:not(:last-child) {
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 .dark .offerings-header > *:not(:last-child) {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
 }
 
 .offerings-toc strong,
@@ -101,9 +108,9 @@ body:not(.dark) {
   text-decoration: underline;
   font-weight: 500;
   margin: 0 0.25rem;
+  color: inherit;
 }
 
-/* Improve link visibility in dark mode */
 .dark .offerings-toc a {
   color: var(--primary);
 }
@@ -116,6 +123,7 @@ body:not(.dark) {
   border-radius: 6px;
   cursor: pointer;
   transition: background 0.2s ease;
+  color: inherit;
 }
 
 .offerings-filter button:hover,
@@ -124,7 +132,7 @@ body:not(.dark) {
   color: var(--primary);
 }
 
-/* Responsive fix: stack filter bar on small screens */
+/* Responsive fix */
 @media (max-width: 600px) {
   .offerings-filter {
     flex-direction: column;
