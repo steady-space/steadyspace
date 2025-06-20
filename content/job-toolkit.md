@@ -59,5 +59,5 @@ Everything is easy to copy, customize, or edit. Whether you're job searching at 
 ### 🌱 Bonus Resource  
 Want a gentle way to track your progress?  
 Check out the free companion:  
-[**Calm & Clear Job Search Dashboard →**](https://steadyspace.gumroad.com/l/calmjobdashboard)  
+[**Calm & Clear Job Search Dashboard →**](/job-dashboard)  
 A Notion template to help you track job applications, prep for interviews, and stay grounded during the search.
