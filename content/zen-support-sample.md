@@ -11,9 +11,9 @@ keywords = [
 ]
 +++
 
-![Preview](/images/zen-support-sample/zen-support-sample.png)
+![Preview](/images/zen-support-sample/zen-sample.png)
 
-> 🧘‍♀️ A free preview of the full *Zen and the Art of Customer Support* toolkit — yours to keep.
+> 🧘‍♀️ A free preview chapter from *Zen and the Art of Customer Support* toolkit — yours to keep.
 
 ---
 
