@@ -31,6 +31,23 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp06-golden-hour-levels/goldenhourlevelsthumb.png" alt="Wallpapers Pack 05 Forest Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌆 Wallpapers Pack 06: Golden Hour Levels</h3>
+      <p>Golden Hour softens everything — the glow, the warmth, the sense of transition. <i>Golden Hour Levels</i> was created to capture that moment of light for your screen. From golden yellow to dusky burgundy, these layered tones create a backdrop that feels warm, expansive, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp06-golden-hour-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp06_goldenhourlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp05-forest-levels/forestlevelsthumb.png" alt="Wallpapers Pack 05 Forest Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌲 Wallpapers Pack 05: Forest Levels</h3>
