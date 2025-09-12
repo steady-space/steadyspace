@@ -31,6 +31,48 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp-levels-collection-volume-1/coll1thumb.png" alt="Levels Collection Volume 1 thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>Levels Collection: Vol. 1 (Sunset, Pastel Calm, Dark Mode)</h3>
+      <p>Your screen is where you spend hours each day. The Levels Collection: Vol. 1 was designed to help it feel calmer, steadier, and more intentional.</p>
+
+<p>This bundle includes three complete wallpaper packs:</p>
+
+<p>🌅 Sunset Levels → warm gradient tones fading into deep night<br>
+🌸 Pastel Calm Levels → soft mint, peach, and muted purple layers<br>
+🌑 Dark Mode Levels → blacks, charcoals, and warm reds for focus + night use</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp-levels-collection-volume-1">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp_levels1">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp03-dark-mode-levels/darkmodethumb.png" alt="Wallpapers Pack 03 Dark Mode Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌑 Wallpapers Pack 03: Dark Mode Levels</h3>
+      <p>Some days call for quiet focus. Darkmode Levels was designed to give your screen a calm, moody backdrop that helps you work, think, or simply rest your eyes.</p>
+
+  <p>Built from deep blacks, charcoals, and warm reds, this gradient series balances darkness with subtle intensity — perfect for night use or minimal setups.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp03-dark-mode-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp03_darkmode">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp02-pastel-levels/pastelcalmthumb.png" alt="Wallpapers Pack 02 Pastel Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌸 Wallpapers Pack 02: Pastel Calm Levels</h3>
