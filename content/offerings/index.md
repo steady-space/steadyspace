@@ -34,9 +34,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp04-ocean-calm-levels/oceancalmthumb.png" alt="Wallpapers Pack 04 Ocean Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌊 Wallpapers Pack 04: Ocean Calm Levels</h3>
-      <p>The ocean is steady. Its depth, its rhythm, its endless shades of blue. 🌊</p>
-
-<p><i>Ocean Calm Levels</i> was created to bring that same refreshing calm to your screen — layered from deep navy to pale seafoam for a backdrop that feels clear, grounded, and distraction-free.</p>
+      <p>The ocean is steady. Its depth, its rhythm, its endless shades of blue. <i>Ocean Calm Levels</i> was created to bring that same refreshing calm to your screen — layered from deep navy to pale seafoam for a backdrop that feels clear, grounded, and distraction-free.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
