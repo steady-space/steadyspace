@@ -10,6 +10,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 <div class="offerings-toc">
   <strong>Jump to:</strong>
+  <a href="#wallpapers">🌄 Wallpapers</a> |
   <a href="#job-tools">🛠️ Toolkits</a> |
   <a href="#guides">🌿 Guides</a> |
   <a href="#freebies">✨ Freebies</a> |
@@ -19,9 +20,33 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 <div class="offerings-filter">
   <strong>Filter:</strong>
   <button data-filter="all" class="active">All</button>
+  <button data-filter="wallpapers">Wallpapers</button>
   <button data-filter="toolkits">Toolkits</button>
   <button data-filter="freebies">Freebies</button>
   <button data-filter="printables">Printables</button>
+</div>
+
+<div class="category-group" data-category="wallpapers">
+  <h2 id="wallpapers">🌄 Wallpapers</h2>
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/zen-support-sample/zen-sample-thumb.png" alt="Zen Support Sample Chapter thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>✨ Zen and the Art of Customer Support — Free Sample Chapter</h3>
+      <p>a quiet peek into my approach to support. you’ll find soothing phrasing, tiny mindset shifts, and tools to stay grounded while helping others.</p>
+      <div class="tags">
+        <span class="tag">✨ Freebie</span>
+        <span class="tag">💬 Language guide</span>
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/zen-support-sample">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/zen-sample">🛒 buy on gumroad</a>
+      </p>
+      </p>
+    </div>
+  </div>
 </div>
 
 <div class="category-group" data-category="toolkits">
