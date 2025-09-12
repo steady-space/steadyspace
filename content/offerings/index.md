@@ -31,10 +31,27 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp02-pastel-levels/pastelcalmthumb.png" alt="Wallpapers Pack 02 Pastel Calm Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌸 Wallpapers Pack 02: Pastel Calm Levels</h3>
+      <p>Pastel Calm Levels is our second wallpaper pack — created with soft mint, peach, coral, and muted purple layers — designed to bring balance, gentleness, and quiet focus to your digital space.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp02-pastel-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp02_pastellevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp01-sunset-levels/sunsetthumb.png" alt="Wallpapers Pack 01 Sunset Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌅 Wallpapers Pack 01: Sunset Levels</h3>
-      <p>✨ Sunset Levels is our first wallpaper pack — designed to bring calm, warmth, and balance into your digital space. Inspired by soft sunset tones moving into deep night, this minimal gradient is packaged with care to help your setup feel steady, not overwhelming.</p>
+      <p>Sunset Levels is our first wallpaper pack — designed to bring calm, warmth, and balance into your digital space. Inspired by soft sunset tones moving into deep night, this minimal gradient is packaged with care to help your setup feel steady, not overwhelming.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
