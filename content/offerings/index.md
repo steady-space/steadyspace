@@ -31,6 +31,23 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp05-forest-levels/forestlevelsthumb.png" alt="Wallpapers Pack 05 Forest Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌲 Wallpapers Pack 05: Forest Levels</h3>
+      <p>Forests remind us of balance — layers of green, dappled light, and the calm of quiet spaces. <i>Forest Levels</i> was created to bring that same grounded calm to your screen. With tones from deep pine to soft sage, this wallpaper offers a backdrop that feels steady and alive without distraction.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp05-forest-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp05_forestlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp04-ocean-calm-levels/oceancalmthumb.png" alt="Wallpapers Pack 04 Ocean Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌊 Wallpapers Pack 04: Ocean Calm Levels</h3>
