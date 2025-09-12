@@ -31,18 +31,16 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/zen-support-sample/zen-sample-thumb.png" alt="Zen Support Sample Chapter thumbnail" class="thumbnail" />
+    <img src="/images/wp01-sunset-levels/sunsetthumb.png" alt="Wallpapers Pack 01 Sunset Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>✨ Zen and the Art of Customer Support — Free Sample Chapter</h3>
-      <p>a quiet peek into my approach to support. you’ll find soothing phrasing, tiny mindset shifts, and tools to stay grounded while helping others.</p>
+      <h3>🌅 Wallpapers Pack 01: Sunset Levels</h3>
+      <p>✨ Sunset Levels is our first wallpaper pack — designed to bring calm, warmth, and balance into your digital space. Inspired by soft sunset tones moving into deep night, this minimal gradient is packaged with care to help your setup feel steady, not overwhelming.</p>
       <div class="tags">
-        <span class="tag">✨ Freebie</span>
-        <span class="tag">💬 Language guide</span>
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
-        <a href="https://steadyspace.net/zen-support-sample">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/zen-sample">🛒 buy on gumroad</a>
+        <a href="https://steadyspace.net/wp01-sunset-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp01_sunset_levels">🛒 buy on gumroad</a>
       </p>
       </p>
     </div>
