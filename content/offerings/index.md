@@ -34,15 +34,16 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp-levels-collection-volume-1/coll1thumb.png" alt="Levels Collection Volume 1 thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>Levels Collection: Vol. 1 (Sunset, Pastel Calm, Dark Mode)</h3>
-      <p>Your screen is where you spend hours each day. The Levels Collection: Vol. 1 was designed to help it feel calmer, steadier, and more intentional.</p>
+      <p>Your screen is where you spend hours each day. The <i>Levels Collection: Vol. 1</i> was designed to help it feel calmer, steadier, and more intentional.</p>
 
 <p>This bundle includes three complete wallpaper packs:</p>
 
-<p>🌅 Sunset Levels → warm gradient tones fading into deep night<br>
-🌸 Pastel Calm Levels → soft mint, peach, and muted purple layers<br>
-🌑 Dark Mode Levels → blacks, charcoals, and warm reds for focus + night use</p>
+<p>🌅 <i>Sunset Levels</i> → warm gradient tones fading into deep night<br>
+🌸 <i>Pastel Calm Levels</i> → soft mint, peach, and muted purple layers<br>
+🌑 <i>Dark Mode Levels</i> → blacks, charcoals, and warm reds for focus + night use</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
+        <span class="tag">📚 Bundle</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp-levels-collection-volume-1">🌿 view full details</a> &nbsp; &nbsp;
@@ -57,7 +58,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp03-dark-mode-levels/darkmodethumb.png" alt="Wallpapers Pack 03 Dark Mode Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌑 Wallpapers Pack 03: Dark Mode Levels</h3>
-      <p>Some days call for quiet focus. Darkmode Levels was designed to give your screen a calm, moody backdrop that helps you work, think, or simply rest your eyes.</p>
+      <p>Some days call for quiet focus. <i>Dark Mode Levels</i> was designed to give your screen a calm, moody backdrop that helps you work, think, or simply rest your eyes.</p>
 
   <p>Built from deep blacks, charcoals, and warm reds, this gradient series balances darkness with subtle intensity — perfect for night use or minimal setups.</p>
       <div class="tags">
@@ -76,7 +77,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp02-pastel-levels/pastelcalmthumb.png" alt="Wallpapers Pack 02 Pastel Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌸 Wallpapers Pack 02: Pastel Calm Levels</h3>
-      <p>Pastel Calm Levels is our second wallpaper pack — created with soft mint, peach, coral, and muted purple layers — designed to bring balance, gentleness, and quiet focus to your digital space.</p>
+      <p><i>Pastel Calm Levels</i> is our second wallpaper pack — created with soft mint, peach, coral, and muted purple layers — designed to bring balance, gentleness, and quiet focus to your digital space.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
@@ -93,7 +94,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp01-sunset-levels/sunsetthumb.png" alt="Wallpapers Pack 01 Sunset Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌅 Wallpapers Pack 01: Sunset Levels</h3>
-      <p>Sunset Levels is our first wallpaper pack — designed to bring calm, warmth, and balance into your digital space. Inspired by soft sunset tones moving into deep night, this minimal gradient is packaged with care to help your setup feel steady, not overwhelming.</p>
+      <p><i>Sunset Levels</i> is our first wallpaper pack — designed to bring calm, warmth, and balance into your digital space. Inspired by soft sunset tones moving into deep night, this minimal gradient is packaged with care to help your setup feel steady, not overwhelming.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
