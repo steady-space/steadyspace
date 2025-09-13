@@ -1,7 +1,7 @@
 +++
 title = "Wallpapers Pack 01: Sunset Levels"
 description = "A calming wallpaper pack inspired by warm sunset tones fading into night. Includes multiple device sizes for desktop, tablet, and mobile."
-slug = "sunset-levels"
+slug = "wp01-sunset-levels"
 type = "page"
 draft = false
 keywords = [
