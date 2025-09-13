@@ -38,7 +38,7 @@ Inspired by soft gradients of evening light, this pack helps your devices feel c
 
 <div style="text-align: center; margin-top: 2rem;">
   <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/wp01_sunset_levels">Get the Wallpapers</a>
-  <p style="font-size: 0.9rem; color: #777;">$3+ · Instant download · Personal use only</p>
+  <p style="font-size: 0.75rem; color: #777;">$3+ · Instant download · Personal use only</p>
 </div>
 
 ---
