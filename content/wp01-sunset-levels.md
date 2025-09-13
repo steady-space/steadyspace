@@ -27,13 +27,13 @@ _Sunset Levels_ is our first wallpaper pack — designed to bring calm, warmth, 
 - 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
 - 📄 A polished README (PDF + TXT) with color palette, included sizes, and gentle setup instructions
 
-All wallpapers come _without_ the steadyspace watermark
+All wallpapers come _without_ the steadyspace watermark.
 
 ---
-
+ 
 <div class="perfect-for">
 
-**💛 Perfect for**
+**💛 Perfect for**:
 
 - 🌄 Evening vibes + warm tones lovers
 - ✨ Minimalist setups that need a grounding glow
