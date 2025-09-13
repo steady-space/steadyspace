@@ -13,31 +13,41 @@ keywords = [
 
 ![Sunset Levels Preview](/images/wp01-sunset-levels/sunsetcover.png)
 
-> 🌅 Let your screens glow with the warmth of sunset.  
+> 🌅 Let your screens glow with the warmth of sunset.
+
+_Sunset Levels_ is our first wallpaper pack — designed to bring calm, warmth, and balance into your digital space. Inspired by soft sunset tones moving into deep night, this minimal gradient is packaged with care to help your setup feel steady, not overwhelming.
 
 ---
 
-### ✅ What’s Inside
+## 📂 What’s Inside:
 
-#### 🎨 Sunset Levels Wallpaper Pack  
-A full set of calming wallpapers inspired by layered sunset tones — bringing warmth, balance, and stillness to your digital space.  
-
-#### 📂 Multiple Resolutions Included  
-- **Desktop**:
-3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (Full HD)  
-- **Mobile**: 
-1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (Future phones)  
-- **Tablet**: 
-2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
-- All wallpapers come without the steadyspace watermark.  
-
-#### ✨ Easy to Use  
-Pick your size, set as wallpaper, and breathe — your setup just got a little more steady.  
+- 🌅 A calming wallpaper design in **10+ resolutions** for desktop, mobile, and tablet
+- 🖥 **Desktop** → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
+- 📱 **Mobile** → 1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (future phones)
+- 📱 **Tablet** → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
+- 📄 A polished **README (PDF + TXT)** with color palette, included sizes, and gentle setup instructions
+- 💧 All wallpapers come **without** the steadyspace watermark
 
 ---
 
-### 🌱 Designed for Gentle Screens  
-Inspired by soft gradients of evening light, this pack helps your devices feel calmer and more intentional.  
+### 🧡 Perfect for:
+
+- 🌄 Evening vibes + warm tones lovers
+- ✨ Minimalist setups that need a grounding glow
+- 🪷 Screens that feel calm but energizing
+
+Inspired by soft gradients of evening light, this pack helps your devices feel calmer and more intentional.
+
+---
+
+### 🪄 How to Use: 
+
+1. Open your device’s folder.
+2. Pick the resolution that matches your screen.
+3. Set as wallpaper.
+4. ✨ Breathe. Let your setup feel a little more steady. 
+
+---  
 
 <div style="text-align: center; margin-top: 2rem;">
   <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/wp01_sunset_levels">Get the Wallpapers</a>
@@ -46,6 +56,6 @@ Inspired by soft gradients of evening light, this pack helps your devices feel c
 
 ---
 
-### ✨ More Wallpaper Packs  
+### 🪴 More Wallpaper Packs  
 Looking for more moods?  
 Check out [**Ocean Calm Levels →**](/wp04-ocean-calm-levels) or [**Forest Levels →**](/wp05-forest-levels) to expand your calming collection.  
