@@ -1,10 +1,18 @@
 +++
 title = "offerings"
-draft = false
+description = "Explore calming wallpapers, printables, and Notion tools from steadyspace — gentle digital offerings designed to bring clarity, balance, and ease to your day."
+slug = "offerings"
 type = "page"
+draft = false
+keywords = [
+  "steadyspace", "calm wallpapers", "digital downloads", "wallpaper packs", "printable tools",
+  "notion templates", "steadyspace offerings", "gentle productivity",
+  "mindful design", "aesthetic wallpapers", "calm digital products",
+  "printables for focus", "wallpapers for mindfulness"
+]
 +++
 
-## a few soft things I made
+## a few soft things
 
 gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
