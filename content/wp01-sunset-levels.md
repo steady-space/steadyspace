@@ -31,13 +31,16 @@ All wallpapers come _without_ the steadyspace watermark
 
 ---
 
-### 🧡 Perfect for:
+<div class="perfect-for">
+
+**💛 Perfect for**
 
 - 🌄 Evening vibes + warm tones lovers
 - ✨ Minimalist setups that need a grounding glow
 - 🪷 Screens that feel calm but energizing
 
 Inspired by soft gradients of evening light, this pack helps your devices feel calmer and more intentional.
+</div>
 
 ---
 
