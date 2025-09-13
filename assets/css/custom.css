@@ -211,3 +211,74 @@ body:not(.dark) {
   color: var(--secondary);
 }
 
+/* ---------- Product/detail page typography + rhythm ---------- */
+
+/* Slightly smaller base text on single pages */
+.single .post-content { 
+  font-size: 0.98rem;           /* ↓ from default */
+  line-height: 1.7;
+}
+
+/* Tame heading sizes on single pages */
+.single .post-title {
+  font-size: clamp(1.9rem, 1.2rem + 2vw, 2.3rem);
+  line-height: 1.2;
+  margin-bottom: .5rem;
+}
+.single .post-content h2 { font-size: 1.35rem; margin: 2rem 0 .75rem; }
+.single .post-content h3 { font-size: 1.15rem; margin: 1.5rem 0 .5rem; }
+
+/* Lists feel less cramped */
+.single .post-content ul,
+.single .post-content ol { 
+  margin: .4rem 0 1.1rem 1.25rem; 
+  line-height: 1.7; 
+}
+.single .post-content li { margin: .33rem 0; }
+
+/* Softer intro quote */
+.single .post-content blockquote {
+  background: #f8f6f2;
+  border-left: 4px solid rgba(0,0,0,.08);
+  padding: .9rem 1.1rem;
+  border-radius: 12px;
+  margin: 1rem 0 1.6rem;
+}
+.dark .single .post-content blockquote {
+  background: #242427;
+  border-left-color: rgba(255,255,255,.12);
+}
+
+/* Spacing around rules & CTA */
+.single .post-content hr { margin: 2rem 0; opacity: .5; }
+.single .post-content .gumroad-button { margin-top: 1.25rem; }
+.single .post-content .gumroad-button + p { margin-top: .4rem; }
+
+/* Hero/preview image polish */
+.single .post-content img {
+  border-radius: 14px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.06);
+}
+
+/* ---------- “Perfect for” callout box ---------- */
+
+.perfect-for {
+  background: #f8f6f2;
+  border: 1px solid rgba(0,0,0,.06);
+  border-radius: 14px;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0 1.8rem;
+}
+.dark .perfect-for {
+  background: #242427;
+  border-color: rgba(255,255,255,.08);
+}
+
+/* Optional: slightly narrower hero image by alt text match */
+.single .post-content img[alt*="Preview"],
+.single .post-content img[alt*="Levels"] {
+  max-width: 980px;
+  width: 100%;
+  display: block;
+  margin: 0 auto 1.1rem;
+}
