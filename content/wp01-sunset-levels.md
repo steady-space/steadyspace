@@ -19,6 +19,8 @@ _Sunset Levels_ is our first wallpaper pack — designed to bring calm, warmth, 
 
 ---
 
+<div class="hightlight-box">
+
 ### 📂 What’s Inside:
 
 - 🌅 A calming wallpaper design in 10+ resolutions for desktop, mobile, and tablet
@@ -27,11 +29,11 @@ _Sunset Levels_ is our first wallpaper pack — designed to bring calm, warmth, 
 - 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
 - 📄 A polished README (PDF + TXT) with color palette, included sizes, and gentle setup instructions
 
-All wallpapers come _without_ the steadyspace watermark.
+All wallpapers come _without_ the steadyspace watermark.</div>
 
 ---
  
-<div class="perfect-for">
+<div class="highlight-box">
 
 **💛 Perfect for**:
 
@@ -39,17 +41,18 @@ All wallpapers come _without_ the steadyspace watermark.
 - ✨ Minimalist setups that need a grounding glow
 - 🪷 Screens that feel calm but energizing
 
-Inspired by soft gradients of evening light, this pack helps your devices feel calmer and more intentional.
-</div>
+Inspired by soft gradients of evening light, this pack helps your devices feel calmer and more intentional.</div>
 
 ---
+
+<div class="highlight-box">
 
 ### 🪄 How to Use: 
 
 1. Open your device’s folder.
 2. Pick the resolution that matches your screen.
 3. Set as wallpaper.
-4. ✨ Breathe. Let your setup feel a little more steady. 
+4. ✨ Breathe. Let your setup feel a little more steady. </div>
 
 ---  
 
