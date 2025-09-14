@@ -19,9 +19,9 @@ _Sunset Levels_ is our first wallpaper pack — designed to bring calm, warmth, 
 
 ---
 
-<div class="hightlight-box">
+<div class="highlight-box">
 
-### 📂 What’s Inside:
+**📂 What’s Inside**:
 
 - 🌅 A calming wallpaper design in 10+ resolutions for desktop, mobile, and tablet
 - 🖥 Desktop → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
@@ -47,7 +47,7 @@ Inspired by soft gradients of evening light, this pack helps your devices feel c
 
 <div class="highlight-box">
 
-### 🪄 How to Use: 
+**🪄 How to Use**:
 
 1. Open your device’s folder.
 2. Pick the resolution that matches your screen.
