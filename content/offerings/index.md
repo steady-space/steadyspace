@@ -39,6 +39,30 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp-levels-collection-volume-2/coll2thumb.png" alt="Levels Collection Volume 2 thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>Levels Collection: Vol. 2 (Ocean Calm, Forest, Golden Hour)</h3>
+      <p>Your screen deserves moments of balance and light. The _Levels Collection: Vol. 2_ was created to bring the clarity of water, the grounding of forests, and the warmth of golden skies into your daily space.</p>
+
+<p>This bundle includes three complete wallpaper packs:</p>
+
+<p>🌊 <i>Ocean Levels</i> → flowing gradients of aqua and reef blue for refreshing clarity<br>
+🌲 <i>Forest Levels</i> → grounded greens and moss tones for balance + focus<br>
+🌆 <i>Golden Hour Levels</i> → soft creams, ambers, and dusky purples for warm evening glow</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+        <span class="tag">📚 Collection</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp06-golden-hour-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp06_goldenhourlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp06-golden-hour-levels/goldenhourlevelsthumb.png" alt="Wallpapers Pack 06 Golden Hour Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌆 Wallpapers Pack 06: Golden Hour Levels</h3>
