@@ -61,7 +61,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp-levels-collection-volume-2/coll2thumb.png" alt="Levels Collection Volume 2 thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>Levels Collection: Vol. 2 (Ocean Calm, Forest, Golden Hour)</h3>
-      <p>Your screen deserves moments of balance and light. The _Levels Collection: Vol. 2_ was created to bring the clarity of water, the grounding of forests, and the warmth of golden skies into your daily space.</p>
+      <p>Your screen deserves moments of balance and light. The <i>Levels Collection: Vol 2</i> was created to bring the clarity of water, the grounding of forests, and the warmth of golden skies into your daily space.</p>
 
 <p>This bundle includes three complete wallpaper packs:</p>
 
