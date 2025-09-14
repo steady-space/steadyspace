@@ -35,7 +35,7 @@ All wallpapers come _without_ the steadyspace watermark.</div>
  
 <div class="highlight-box">
 
-**💛 Perfect for**:
+**🧡 Perfect for**:
 
 - 🌄 Evening vibes + warm tones lovers
 - ✨ Minimalist setups that need a grounding glow
