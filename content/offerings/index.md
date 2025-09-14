@@ -39,6 +39,25 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp07-blush-calm-levels/blushcalmlevelsthumb.png" alt="Wallpapers Pack 07 Blush Calm Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>💮 Wallpapers Pack 07: Blush Calm Levels</h3>
+<p>Blush tones soften everything — the light, the mood, the rhythm of your day. 
+<i>Blush Calm Levels</i> was created to bring that gentle warmth to your screen. From pale pink to deep berry rose, these layered gradients create a backdrop that feels cozy, creative, and intentional.</p>
+</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp07-blush-calm-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp07_blushcalmlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp-levels-collection-volume-2/coll2thumb.png" alt="Levels Collection Volume 2 thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>Levels Collection: Vol. 2 (Ocean Calm, Forest, Golden Hour)</h3>
@@ -46,16 +65,16 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
 
 <p>This bundle includes three complete wallpaper packs:</p>
 
-<p>🌊 <i>Ocean Levels</i> → flowing gradients of aqua and reef blue for refreshing clarity<br>
-🌲 <i>Forest Levels</i> → grounded greens and moss tones for balance + focus<br>
-🌆 <i>Golden Hour Levels</i> → soft creams, ambers, and dusky purples for warm evening glow</p>
+<p>🌊 <i>Ocean Levels</i> → flowing gradients of aqua & reef blue for refreshing clarity<br>
+🌲 <i>Forest Levels</i> → grounded greens & moss tones for balance + focus<br>
+🌆 <i>Golden Hour Levels</i> → golden yellows to dusky burgundy for warm evening glow</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
         <span class="tag">📚 Collection</span>
       </div>
       <p>
-        <a href="https://steadyspace.net/wp06-golden-hour-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp06_goldenhourlevels">🛒 buy on gumroad</a>
+        <a href="https://steadyspace.net/wp-levels-collection-volume-2">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp_levels2">🛒 buy on gumroad</a>
       </p>
     </div>
   </div>
