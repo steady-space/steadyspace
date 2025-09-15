@@ -39,12 +39,28 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp08-desert-glow-levels/desertglowlevelsthumb.png" alt="Wallpapers Pack 08 Desert Glow Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🏜 Wallpapers Pack 08: Desert Glow Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp08-desert-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp07-blush-calm-levels/blushcalmlevelsthumb.png" alt="Wallpapers Pack 07 Blush Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>💮 Wallpapers Pack 07: Blush Calm Levels</h3>
 <p>Blush tones soften everything — the light, the mood, the rhythm of your day. 
 <i>Blush Calm Levels</i> was created to bring that gentle warmth to your screen. From pale pink to deep berry rose, these layered gradients create a backdrop that feels cozy, creative, and intentional.</p>
-</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
