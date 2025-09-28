@@ -28,9 +28,9 @@ Stars begin their song.</i> 🌌
 **📂 What’s Inside**:
 
 - 🌌 A calming wallpaper design in 10+ resolutions for desktop, mobile, and tablet
-- 🖥 Desktop → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
-- 📱 Mobile → 1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (future phones)
-- 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
+  - 🖥 Desktop → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
+  - 📱 Mobile → 1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (future phones)
+  - 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
 - 🔄 Each pack includes both the original gradient orientation and a bonus reversed version so you can choose whichever feels best for your screen or icon layout
 - 📄 A polished README (PDF + TXT) with color palette, included sizes, and gentle setup instructions
 
