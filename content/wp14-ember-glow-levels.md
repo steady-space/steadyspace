@@ -1,13 +1,13 @@
 +++
 title = "Wallpaper Pack 14: Ember Glow Levels"
-description = "A warm wallpaper pack inspired by golden sands and terracotta tones fading into night. Includes multiple device sizes for desktop, tablet, and mobile."
+description = "A fiery wallpaper pack inspired by flame, ember, and radiant warmth. Includes multiple device sizes for desktop, tablet, and mobile."
 slug = "wp14-ember-glow-levels"
 type = "page"
 draft = false
 keywords = [
-  "desert wallpapers", "sunset wallpapers", "warm gradient wallpaper",
-  "terracotta wallpapers", "digital wallpapers", "steadyspace wallpapers",
-  "aesthetic wallpapers", "phone wallpapers", "tablet wallpapers", "gradient pack", "desert glow"
+  "ember wallpapers", "fire wallpapers", "warm gradient wallpaper",
+  "orange red wallpapers", "digital wallpapers", "steadyspace wallpapers",
+  "bold wallpapers", "phone wallpapers", "tablet wallpapers", "aesthetic wallpapers"
 ]
 +++
 
@@ -15,7 +15,7 @@ keywords = [
 
 > 🔥 Heat, light, energy.
 
-Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.
+Flame steadies everything — heat glows, shadows deepen, sparks fade to calm. <i>Ember Glow Levels</i> was created to capture that fiery balance in radiant gradients. From coral and orange to ember brown and charcoal, this pack adds warmth and intensity to your space. Designed to bring warmth and intensity, it’s a vibrant backdrop for setups that thrive on bold color and radiance.
 
 <i>Flame flickers to dusk,
 Amber fades to ember glow,
@@ -27,26 +27,25 @@ Heat steadies the night.</i> 🔥
 
 **📂 What’s Inside**:
 
-- 🔥 A bold wallpaper design in 10+ resolutions for desktop, mobile, and tablet
-- 🖥 Desktop → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
-- 📱 Mobile → 1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (future phones)
-- 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
-- 🔄 Each pack includes both the original gradient orientation and a bonus reversed version so you can choose whichever feels best for your screen or icon layout
+- 🔥 A bold wallpaper design in 10+ resolutions for desktop, mobile, and tablet:
+  - 🖥 **Desktop** → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
+  - 📱 **Mobile** → 1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (future phones)
+  - 📱 **Tablet** → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
+- 🔄 The original gradient orientation and bonus reversed version so you can choose whichever feels best for your screen or icon layout
 - 📄 A polished README (PDF + TXT) with color palette, included sizes, and gentle setup instructions
-
-All wallpapers come _without_ the steadyspace watermark.</div>
+- 💧 All wallpapers come _without_ the steadyspace logo watermark</div>
 
 ---
  
 <div class="highlight-box">
 
-**🤎 Perfect for**:
+**🧡 Perfect for**:
 
-- 🌄 Evening vibes + warm tones lovers
-- ✨ Minimalist setups that need grounding glow
-- 🌵 Screens that feel calm but alive
+- 🔥 Fans of fiery, energetic aesthetics
+- ✨ Minimalist setups needing bold warmth
+- 🌑 Screens that balance heat with shadow
 
-Inspired by layered desert gradients, this pack helps your devices feel warmer, steadier, and more intentional.</div>
+Inspired by flame and ember, this pack helps your devices feel warmer, brighter, and more alive.</div>
 
 ---
 
@@ -62,8 +61,8 @@ Inspired by layered desert gradients, this pack helps your devices feel warmer, 
 ---  
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">Get the Wallpapers</a>
-  <p style="font-size: 0.9rem; color: #777;">$3+ · Instant download · Personal use only</p>
+  <a href="https://payhip.com/b/ZT2uo" class="payhip-buy-button" data-theme="blue" data-product="ZT2uo">Buy Now</a>
+  <p style="font-size: 0.9rem; color: #777;">$5+ · Instant download · Personal use only</p>
 </div>
 
 ---
