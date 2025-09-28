@@ -1,5 +1,5 @@
 +++
-title = "Wallpapers Pack 02: Pastel Calm Levels"
+title = "Wallpaper Pack 02: Pastel Calm Levels"
 description = "A soft pastel wallpaper pack inspired by gentle blush and airy tones. Includes multiple device sizes for desktop, tablet, and mobile."
 slug = "wp02-pastel-levels"
 type = "page"

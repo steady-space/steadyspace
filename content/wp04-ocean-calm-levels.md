@@ -1,5 +1,5 @@
 +++
-title = "Wallpapers Pack 04: Ocean Calm Levels"
+title = "Wallpaper Pack 04: Ocean Calm Levels"
 description = "A refreshing wallpaper pack inspired by aqua tones and deep ocean blues. Includes multiple device sizes for desktop, tablet, and mobile."
 slug = "wp04-ocean-calm-levels"
 type = "page"

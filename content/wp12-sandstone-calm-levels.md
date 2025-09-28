@@ -1,7 +1,7 @@
 +++
-title = "Wallpaper Pack 08: Desert Glow Levels"
+title = "Wallpaper Pack 12: Sandstone Calm Levels"
 description = "A warm wallpaper pack inspired by golden sands and terracotta tones fading into night. Includes multiple device sizes for desktop, tablet, and mobile."
-slug = "wp08-desert-glow-levels"
+slug = "wp12-sandstone-calm-levels"
 type = "page"
 draft = false
 keywords = [
@@ -11,15 +11,15 @@ keywords = [
 ]
 +++
 
-![Desert Glow Levels Preview](/images/wp08-desert-glow-levels/desertglowlevelscover.png)
+![Sandstone Calm Levels Preview](/images/wp12-sandstone-calm-levels/sandstonecalmlevelscover.png)
 
-> 🌄 Warm desert tones for a grounded screen.
+> 🌾 Warm desert tones for a grounded screen.
 
 Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.
 
-<i>Golden sands fading,<br>
-Terracotta holds the sun,<br>
-Stillness fills the air.</i> 🌄
+<i>Stone cradles the light,<br>
+Terracotta fades to dusk,<br>
+Heat softens to calm.</i> 🌾
 
 ---
 
@@ -27,7 +27,7 @@ Stillness fills the air.</i> 🌄
 
 **📂 What’s Inside**:
 
-- 🌄 A calming wallpaper design in 10+ resolutions for desktop, mobile, and tablet
+- 🌾 A calming wallpaper design in 10+ resolutions for desktop, mobile, and tablet
 - 🖥 Desktop → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
 - 📱 Mobile → 1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (future phones)
 - 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
@@ -62,8 +62,8 @@ Inspired by layered desert gradients, this pack helps your devices feel warmer, 
 ---  
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">Get the Wallpaper</a>
-  <p style="font-size: 0.9rem; color: #777;">$5+ · Instant download · Personal use only</p>
+  <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">Get the Wallpapers</a>
+  <p style="font-size: 0.9rem; color: #777;">$3+ · Instant download · Personal use only</p>
 </div>
 
 ---

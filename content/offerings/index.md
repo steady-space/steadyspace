@@ -39,9 +39,213 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/wp08-desert-glow-levels/desertglowlevelsthumb.png" alt="Wallpapers Pack 08 Desert Glow Levels thumbnail" class="thumbnail" />
+    <img src="/images/wp20-candy-pop-levels/candypoplevelsthumb.png" alt="Wallpaper Pack 20 Candy Pop Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>🏜 Wallpapers Pack 08: Desert Glow Levels</h3>
+      <h3>🍭 Wallpaper Pack 20: Candy Pop Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp20-candy-pop-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp19-sunset-prism-levels/sunsetprismlevelsthumb.png" alt="Wallpaper Pack 19 Sunset Prism Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌈 Wallpaper Pack 19: Sunset Prism Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp19-sunset-prism-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp18-meadow-dawn-levels/meadowdawnlevelsthumb.png" alt="Wallpaper Pack 18 Meadow Dawn Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌄 Wallpaper Pack 18: Meadow Dawn Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp18-meadow-dawn-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp17-cosmic-drift-levels/cosmicdriftlevelsthumb.png" alt="Wallpaper Pack 17 Cosmic Drift Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌌 Wallpaper Pack 17: Cosmic Drift Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp17-cosmic-drift-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp16-aurora-glow-levels/auroraglowlevelsthumb.png" alt="Wallpaper Pack 16 Aurora Glow Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌌 Wallpaper Pack 16: Aurora Glow Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp16-aurora-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp15-electric-pulse-levels/electricpulselevelsthumb.png" alt="Wallpaper Pack 15 Electric Pulse Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>⚡ Wallpaper Pack 15: Electric Pulse Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp15-electric-pulse-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp14-ember-glow-levels/emberglowlevelsthumb.png" alt="Wallpaper Pack 14 Ember Glow Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🔥 Wallpaper Pack 14: Ember Glow Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp14-ember-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp13-retro-wave-levels/retrowavelevelsthumb.png" alt="Wallpaper Pack 13 Retro Wave Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🎨 Wallpaper Pack 13: Retro Wave Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp13-retro-wave-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp12-sandstone-calm-levels/sandstonecalmlevelsthumb.png" alt="Wallpaper Pack 12 Sandstone Calm Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌾 Wallpaper Pack 12: Sandstone Calm Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp12-sandstone-calm-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp11-horizon-glow-levels/horizonglowlevelsthumb.png" alt="Wallpaper Pack 11 Horizon Glow Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌅 Wallpaper Pack 11: Horizon Glow Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp11-horizon-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp10-verdant-levels/verdantlevelsthumb.png" alt="Wallpaper Pack 10 Verdant Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🍃 Wallpaper Pack 10: Verdant Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp10-verdant-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp09-twilight-sky-levels/twilightskylevelsthumb.png" alt="Wallpaper Pack 09 Twilight Sky Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌌 Wallpaper Pack 09: Twilight Sky Levels</h3>
+<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp09-twilight-sky-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp08-desert-glow-levels/desertglowlevelsthumb.png" alt="Wallpaper Pack 08 Desert Glow Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🏜 Wallpaper Pack 08: Desert Glow Levels</h3>
 <p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
@@ -56,9 +260,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/wp07-blush-calm-levels/blushcalmlevelsthumb.png" alt="Wallpapers Pack 07 Blush Calm Levels thumbnail" class="thumbnail" />
+    <img src="/images/wp07-blush-calm-levels/blushcalmlevelsthumb.png" alt="Wallpaper Pack 07 Blush Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>💮 Wallpapers Pack 07: Blush Calm Levels</h3>
+      <h3>💮 Wallpaper Pack 07: Blush Calm Levels</h3>
 <p>Blush tones soften everything — the light, the mood, the rhythm of your day. 
 <i>Blush Calm Levels</i> was created to bring that gentle warmth to your screen. From pale pink to deep berry rose, these layered gradients create a backdrop that feels cozy, creative, and intentional.</p>
       <div class="tags">
@@ -98,9 +302,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/wp06-golden-hour-levels/goldenhourlevelsthumb.png" alt="Wallpapers Pack 06 Golden Hour Levels thumbnail" class="thumbnail" />
+    <img src="/images/wp06-golden-hour-levels/goldenhourlevelsthumb.png" alt="Wallpaper Pack 06 Golden Hour Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>🌆 Wallpapers Pack 06: Golden Hour Levels</h3>
+      <h3>🌆 Wallpaper Pack 06: Golden Hour Levels</h3>
       <p>Golden Hour softens everything — the glow, the warmth, the sense of transition. <i>Golden Hour Levels</i> was created to capture that moment of light for your screen. From golden yellow to dusky burgundy, these layered tones create a backdrop that feels warm, expansive, and intentional.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
@@ -115,9 +319,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/wp05-forest-levels/forestlevelsthumb.png" alt="Wallpapers Pack 05 Forest Levels thumbnail" class="thumbnail" />
+    <img src="/images/wp05-forest-levels/forestlevelsthumb.png" alt="Wallpaper Pack 05 Forest Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>🌲 Wallpapers Pack 05: Forest Levels</h3>
+      <h3>🌲 Wallpaper Pack 05: Forest Levels</h3>
       <p>Forests remind us of balance — layers of green, dappled light, and the calm of quiet spaces. <i>Forest Levels</i> was created to bring that same grounded calm to your screen. With tones from deep pine to soft sage, this wallpaper offers a backdrop that feels steady and alive without distraction.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
@@ -132,9 +336,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/wp04-ocean-calm-levels/oceancalmthumb.png" alt="Wallpapers Pack 04 Ocean Calm Levels thumbnail" class="thumbnail" />
+    <img src="/images/wp04-ocean-calm-levels/oceancalmthumb.png" alt="Wallpaper Pack 04 Ocean Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>🌊 Wallpapers Pack 04: Ocean Calm Levels</h3>
+      <h3>🌊 Wallpaper Pack 04: Ocean Calm Levels</h3>
       <p>The ocean is steady. Its depth, its rhythm, its endless shades of blue. <i>Ocean Calm Levels</i> was created to bring that same refreshing calm to your screen — layered from deep navy to pale seafoam for a backdrop that feels clear, grounded, and distraction-free.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
@@ -173,9 +377,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/wp03-dark-mode-levels/darkmodethumb.png" alt="Wallpapers Pack 03 Dark Mode Levels thumbnail" class="thumbnail" />
+    <img src="/images/wp03-dark-mode-levels/darkmodethumb.png" alt="Wallpaper Pack 03 Dark Mode Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>🌑 Wallpapers Pack 03: Dark Mode Levels</h3>
+      <h3>🌑 Wallpaper Pack 03: Dark Mode Levels</h3>
       <p>Some days call for quiet focus. <i>Dark Mode Levels</i> was designed to give your screen a calm, moody backdrop that helps you work, think, or simply rest your eyes.</p>
 
   <p>Built from deep blacks, charcoals, and warm reds, this gradient series balances darkness with subtle intensity — perfect for night use or minimal setups.</p>
@@ -192,9 +396,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/wp02-pastel-levels/pastelcalmthumb.png" alt="Wallpapers Pack 02 Pastel Calm Levels thumbnail" class="thumbnail" />
+    <img src="/images/wp02-pastel-levels/pastelcalmthumb.png" alt="Wallpaper Pack 02 Pastel Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>🌸 Wallpapers Pack 02: Pastel Calm Levels</h3>
+      <h3>🌸 Wallpaper Pack 02: Pastel Calm Levels</h3>
       <p><i>Pastel Calm Levels</i> is our second wallpaper pack — created with soft mint, peach, coral, and muted purple layers — designed to bring balance, gentleness, and quiet focus to your digital space.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
@@ -209,9 +413,9 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
-    <img src="/images/wp01-sunset-levels/sunsetthumb.png" alt="Wallpapers Pack 01 Sunset Levels thumbnail" class="thumbnail" />
+    <img src="/images/wp01-sunset-levels/sunsetthumb.png" alt="Wallpaper Pack 01 Sunset Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>🌅 Wallpapers Pack 01: Sunset Levels</h3>
+      <h3>🌅 Wallpaper Pack 01: Sunset Levels</h3>
       <p><i>Sunset Levels</i> is our first wallpaper pack — designed to bring calm, warmth, and balance into your digital space. Inspired by soft sunset tones moving into deep night, this minimal gradient is packaged with care to help your setup feel steady, not overwhelming.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>

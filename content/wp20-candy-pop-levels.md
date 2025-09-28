@@ -1,7 +1,7 @@
 +++
-title = "Wallpaper Pack 08: Desert Glow Levels"
+title = "Wallpaper Pack 20: Candy Pop Levels"
 description = "A warm wallpaper pack inspired by golden sands and terracotta tones fading into night. Includes multiple device sizes for desktop, tablet, and mobile."
-slug = "wp08-desert-glow-levels"
+slug = "wp20-candy-pop-levels"
 type = "page"
 draft = false
 keywords = [
@@ -11,15 +11,15 @@ keywords = [
 ]
 +++
 
-![Desert Glow Levels Preview](/images/wp08-desert-glow-levels/desertglowlevelscover.png)
+![Candy Pop Levels Preview](/images/wp20-candy-pop-levels/candypoplevelscover.png)
 
-> 🌄 Warm desert tones for a grounded screen.
+> 🍭 Sweet, retro, and unapologetically bold.
 
 Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.
 
-<i>Golden sands fading,<br>
-Terracotta holds the sun,<br>
-Stillness fills the air.</i> 🌄
+<i>Pink and orange burst,
+Yellow hums with cobalt blue,
+Sweet night blooms in light.</i> 🍭
 
 ---
 
@@ -27,10 +27,10 @@ Stillness fills the air.</i> 🌄
 
 **📂 What’s Inside**:
 
-- 🌄 A calming wallpaper design in 10+ resolutions for desktop, mobile, and tablet
+- 🍭 A bold wallpaper design in 13 sizes for desktop, mobile, and tablet — optimized for the latest iPhones, iPads, Android devices, and 4K desktops
 - 🖥 Desktop → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
-- 📱 Mobile → 1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (future phones)
-- 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)
+- 📱 Mobile → 1080×1920 (Universal), 1170×2532 (iPhone Pro, earlier models), 1290×2796 (iPhone Pro Max, earlier models), 1260×2736 (iPhone Air), 1206x2622 (iPhone 17 Pro and newer), 1320x2868 (iPhone 17 Pro Max and newer), 1440×3200 (Android) 
+- 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini / standard)
 - 🔄 Each pack includes both the original gradient orientation and a bonus reversed version so you can choose whichever feels best for your screen or icon layout
 - 📄 A polished README (PDF + TXT) with color palette, included sizes, and gentle setup instructions
 
@@ -62,8 +62,8 @@ Inspired by layered desert gradients, this pack helps your devices feel warmer, 
 ---  
 
 <div style="text-align: center; margin-top: 2rem;">
-  <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">Get the Wallpaper</a>
-  <p style="font-size: 0.9rem; color: #777;">$5+ · Instant download · Personal use only</p>
+  <a class="gumroad-button" href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">Get the Wallpapers</a>
+  <p style="font-size: 0.9rem; color: #777;">$3+ · Instant download · Personal use only</p>
 </div>
 
 ---

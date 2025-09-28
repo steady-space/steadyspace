@@ -1,5 +1,5 @@
 +++
-title = "Wallpapers Pack 06: Golden Hour Levels"
+title = "Wallpaper Pack 06: Golden Hour Levels"
 description = "A warm color palette capturing the glow, the warmth, and the sense of transition from day to night. Includes multiple device sizes for desktop, tablet, and mobile."
 slug = "wp06-golden-hour-levels"
 type = "page"

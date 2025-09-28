@@ -1,26 +1,26 @@
 +++
-title = "Levels Collection: Volume 2"
-description = "A wallpaper bundle featuring Ocean Calm, Forest, and Golden Hour packs. Includes multiple device sizes for desktop, tablet, and mobile."
-slug = "wp-levels-collection-volume-2"
+title = "Levels Collection: Bold Volume 1"
+description = "A wallpaper bundle featuring Retro Wave, Ember Glow, and Electric Pulse packs. Includes multiple device sizes for desktop, tablet, and mobile."
+slug = "wp-levels-collection-bold-volume-1"
 type = "page"
 draft = false
 keywords = [
   "wallpaper bundle", "wallpaper pack collection", "ocean wallpapers",
   "forest wallpapers", "golden hour wallpapers", "gradient wallpapers",
   "desktop wallpapers", "phone wallpapers", "tablet wallpapers",
-  "steadyspace wallpapers", "ocean calm levels", "forest levels", "golden hour levels"
+  "steadyspace wallpapers", "retro wave levels", "ember glow levels", "electric pulse levels", "vaporware"
 ]
 +++
 
-![Levels Collection: Volume 2 Preview](/images/wp-levels-collection-volume-2/coll2cover.png)
+![Levels Collection: Bold Volume 1 Preview](/images/wp-levels-collection-bold-volume-1/levelscollectionbold1cover.png)
 
 > ✨ Three moods of nature, one bundle.
 
-_Levels Collection: Volume 2_ brings together three calming wallpaper packs — [Ocean Calm](/wp04-ocean-calm-levels), [Forest](/wp05-forest-levels), and [Golden Hour](/wp06-golden-hour-levels). Inspired by water, trees, and light, this set is designed to bring refreshing clarity, grounded balance, and warm glow to your devices.
+_Levels Collection: Bold Volume 1_ brings together three bold wallpaper packs — [Retro Wave](/wp13-retro-wave-levels), [Ember Glow](/wp14-ember-glow-levels), and [Electric Pulse](/wp15-electric-pulse-levels). Inspired by water, trees, and light, this set is designed to bring refreshing clarity, grounded balance, and warm glow to your devices.
 
-- 🌊 [Ocean Calm Levels](/wp04-ocean-calm-levels) → flowing gradients of aqua and reef blue for refreshing clarity
-- 🌲 [Forest Levels](/wp05-forest-levels) → grounded greens and moss tones for balance + focus
-- 🌆 [Golden Hour Levels](/wp06-golden-hour-levels) → soft creams, ambers, and dusky purples for warm evening glow
+- 🎨 [Retro Wave](/wp13-retro-wave-levels) → flowing gradients of aqua and reef blue for refreshing clarity
+- 🔥 [Ember Glow](/wp14-ember-glow-levels) → grounded greens and moss tones for balance + focus
+- ⚡ [Electric Pulse](/wp15-electric-pulse-levels) → soft creams, ambers, and dusky purples for warm evening glow
 
 ---
 
@@ -28,7 +28,7 @@ _Levels Collection: Volume 2_ brings together three calming wallpaper packs — 
 
 **📂 What’s Inside**:
 
-- 🌊 🌲 🌆 Three (3) calming wallpaper designs in 10+ resolutions for desktop, mobile, and tablet
+- 🎨 🔥 ⚡ Three (3) bold wallpaper designs in 10+ resolutions for desktop, mobile, and tablet
 - 🖥 Desktop → 3840×2160 (4K), 3072×1920 (MacBook Pro), 2560×1440 (QHD), 1920×1080 (FullHD)
 - 📱 Mobile → 1080×1920 (Universal), 1170×2532 (iPhone Pro), 1290×2796 (iPhone Pro Max), 1440×3200 (Android), 1350×3000 (future phones)
 - 📱 Tablet → 2048×2732 (iPad Pro), 1536×2048 (iPad Mini/standard)

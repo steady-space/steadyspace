@@ -1,5 +1,5 @@
 +++
-title = "Wallpapers Pack 05: Forest Levels"
+title = "Wallpaper Pack 05: Forest Levels"
 description = "A grounded wallpaper pack inspired by pine greens and moss tones. Includes multiple device sizes for desktop, tablet, and mobile."
 slug = "wp05-forest-levels"
 type = "page"

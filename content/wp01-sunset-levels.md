@@ -1,5 +1,5 @@
 +++
-title = "Wallpapers Pack 01: Sunset Levels"
+title = "Wallpaper Pack 01: Sunset Levels"
 description = "A calming wallpaper pack inspired by warm sunset tones fading into night. Includes multiple device sizes for desktop, tablet, and mobile."
 slug = "wp01-sunset-levels"
 type = "page"

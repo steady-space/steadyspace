@@ -1,5 +1,5 @@
 +++
-title = "Wallpapers Pack 03: Darkmode Levels"
+title = "Wallpaper Pack 03: Darkmode Levels"
 description = "A moody wallpaper pack for darkmode lovers, blending deep reds and subtle blacks. Includes multiple device sizes for desktop, tablet, and mobile."
 slug = "wp03-dark-mode-levels"
 type = "page"

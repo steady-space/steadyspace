@@ -1,5 +1,5 @@
 +++
-title = "Wallpapers Pack 07: Blush Calm Levels"
+title = "Wallpaper Pack 07: Blush Calm Levels"
 description = "A rosy wallpaper pack with soft blush and berry tones. Includes multiple device sizes for desktop, tablet, and mobile."
 slug = "wp07-blush-calm-levels"
 type = "page"
