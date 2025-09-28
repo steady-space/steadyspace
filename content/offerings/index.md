@@ -42,13 +42,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp20-candy-pop-levels/candypoplevelsthumb.png" alt="Wallpaper Pack 20 Candy Pop Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🍭 Wallpaper Pack 20: Candy Pop Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Candy Pop Levels</i> mixes bubblegum pink, tangerine, yellow, neon lime, mint, and grape into a retro-inspired gradient. Energetic and playful, it’s designed for screens that thrive on color.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp20-candy-pop-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/xHZN9" class="payhip-buy-button" data-theme="blue" data-product="xHZN9">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -59,13 +59,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp19-sunset-prism-levels/sunsetprismlevelsthumb.png" alt="Wallpaper Pack 19 Sunset Prism Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌈 Wallpaper Pack 19: Sunset Prism Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Sunset Prism Levels</i> blends orange, gold, aqua, blue, violet, and magenta into a vivid gradient that feels alive. Designed for playful setups, it brings bold energy and colorful balance to your screen.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp19-sunset-prism-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/6nq1Q" class="payhip-buy-button" data-theme="blue" data-product="6nq1Q">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -76,13 +76,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp18-meadow-dawn-levels/meadowdawnlevelsthumb.png" alt="Wallpaper Pack 18 Meadow Dawn Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌄 Wallpaper Pack 18: Meadow Dawn Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Meadow Dawn Levels</i> layers peach, gold, lavender, and green into a soft gradient inspired by sunrise. Designed to feel warm, grounding, and expansive, this pack brings a gentle morning calm to your digital space.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp18-meadow-dawn-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/rhiEC" class="payhip-buy-button" data-theme="blue" data-product="rhiEC">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -93,13 +93,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp17-cosmic-drift-levels/cosmicdriftlevelsthumb.png" alt="Wallpaper Pack 17 Cosmic Drift Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌌 Wallpaper Pack 17: Cosmic Drift Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Cosmic Drift Levels</i> layers midnight navy, soft violets, glowing magentas, and warm oranges into a gradient inspired by the quiet movement of the cosmos. Dreamlike and expansive, this pack is designed to steady your screen while carrying a hint of wonder.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp17-cosmic-drift-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/Iio0l" class="payhip-buy-button" data-theme="blue" data-product="Iio0l">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -110,13 +110,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp16-aurora-glow-levels/auroraglowlevelsthumb.png" alt="Wallpaper Pack 16 Aurora Glow Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌌 Wallpaper Pack 16: Aurora Glow Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Aurora Glow Levels</i> layers deep violets, electric blues, and glowing greens into a gradient inspired by the northern lights. Designed to feel expansive, dreamlike, and steady, this pack brings a touch of the aurora’s magic into your digital space.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp16-aurora-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/5U0wo" class="payhip-buy-button" data-theme="blue" data-product="5U0wo">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -127,13 +127,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp15-electric-pulse-levels/electricpulselevelsthumb.png" alt="Wallpaper Pack 15 Electric Pulse Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>⚡ Wallpaper Pack 15: Electric Pulse Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Electric Pulse Levels</i> combines high-contrast neons — magenta, cyan, green, and yellow — against deep black. Bold, electric, and unapologetic, it’s designed to make your screen pop with energy and contrast.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp15-electric-pulse-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/UQw1x" class="payhip-buy-button" data-theme="blue" data-product="UQw1x">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -144,13 +144,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp14-ember-glow-levels/emberglowlevelsthumb.png" alt="Wallpaper Pack 14 Ember Glow Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🔥 Wallpaper Pack 14: Ember Glow Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Ember Glow Levels</i> layers fiery coral, flame orange, and deep ember into a bold gradient. Designed to bring warmth and intensity, it’s a vibrant backdrop for setups that thrive on bold color and radiance.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp14-ember-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/ZT2uo" class="payhip-buy-button" data-theme="blue" data-product="ZT2uo">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -161,13 +161,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp13-retro-wave-levels/retrowavelevelsthumb.png" alt="Wallpaper Pack 13 Retro Wave Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🎨 Wallpaper Pack 13: Retro Wave Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Retro Wave Levels</i> is a wallpaper pack inspired by vaporwave and synthwave aesthetics. With vibrant pinks, cyans, and purples blending into high-contrast neons, this gradient is designed for screens that want to feel alive, creative, and unapologetically bold.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp13-retro-wave-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/xCLYz" class="payhip-buy-button" data-theme="blue" data-product="xCLYz">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -178,13 +178,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp12-sandstone-calm-levels/sandstonecalmlevelsthumb.png" alt="Wallpaper Pack 12 Sandstone Calm Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌾 Wallpaper Pack 12: Sandstone Calm Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Sandstone Calm Levels</i> layers warm sand, terracotta, and deep earth with a golden highlight. Inspired by desert stone at sunset, this gradient feels steady, minimal, and quietly radiant — a calming backdrop for any setup.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp12-sandstone-calm-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/Vq0O3" class="payhip-buy-button" data-theme="blue" data-product="Vq0O3">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -195,13 +195,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp11-horizon-glow-levels/horizonglowlevelsthumb.png" alt="Wallpaper Pack 11 Horizon Glow Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌅 Wallpaper Pack 11: Horizon Glow Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Horizon Glow Levels</i> blends cool ocean blues into warm sunset tones, creating a backdrop that feels expansive, steady, and alive. Designed for those who find calm in horizons, this gradient shifts gently from sea to sky, offering warmth and clarity in equal measure.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp11-horizon-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/yt3Ws" class="payhip-buy-button" data-theme="blue" data-product="yt3Ws">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -212,13 +212,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp10-verdant-levels/verdantlevelsthumb.png" alt="Wallpaper Pack 10 Verdant Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🍃 Wallpaper Pack 10: Verdant Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p><i>Verdant Levels</i> is a wallpaper pack that layers soft mint, meadow green, and deep forest hues. Designed to bring a sense of growth, freshness, and grounding to your digital space, this gradient captures the quiet resilience of nature. A gentle palette to steady your setup — bright enough to refresh, deep enough to calm.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp10-verdant-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/Liwpm" class="payhip-buy-button" data-theme="blue" data-product="Liwpm">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -229,13 +229,13 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
     <img src="/images/wp09-twilight-sky-levels/twilightskylevelsthumb.png" alt="Wallpaper Pack 09 Twilight Sky Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌌 Wallpaper Pack 09: Twilight Sky Levels</h3>
-<p>Desert evenings steady everything — the air, the glow, the quiet horizon. <i>Desert Glow Levels</i> was created to bring that warmth and balance to your screen. From soft sand to terracotta night tones, these gradients create a backdrop that feels grounded, calming, and intentional.</p>
+<p>Twilight slows everything — the light dims, the colors deepen, the sky steadies. <i>Twilight Sky Levels</i> was created to bring that same quiet magic to your devices. From lavender glow to deep indigo night, the gradient evokes the transition from dusk to starlight. Perfect for dreamers, night owls, and reflective setups that thrive in calm.</p>
       <div class="tags">
         <span class="tag">🌿 Tiny shifts</span>
       </div>
       <p>
         <a href="https://steadyspace.net/wp09-twilight-sky-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://steadyspace.gumroad.com/l/wp08_desertglowlevels">🛒 buy on gumroad</a>
+        <a href="https://payhip.com/b/BLgG1" class="payhip-buy-button" data-theme="blue" data-product="BLgG1">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
