@@ -48,7 +48,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp20-candy-pop-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/xHZN9" class="payhip-buy-button" data-theme="blue" data-product="xHZN9">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/xHZN9" class="payhip-buy-button" data-theme="none" data-product="xHZN9">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -65,7 +65,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp19-sunset-prism-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/6nq1Q" class="payhip-buy-button" data-theme="blue" data-product="6nq1Q">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/6nq1Q" class="payhip-buy-button" data-theme="none" data-product="6nq1Q">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -99,7 +99,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp17-cosmic-drift-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/Iio0l" class="payhip-buy-button" data-theme="blue" data-product="Iio0l">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/Iio0l" class="payhip-buy-button" data-theme="none" data-product="Iio0l">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -116,7 +116,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp16-aurora-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/5U0wo" class="payhip-buy-button" data-theme="blue" data-product="5U0wo">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/5U0wo" class="payhip-buy-button" data-theme="none" data-product="5U0wo">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -133,7 +133,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp15-electric-pulse-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/UQw1x" class="payhip-buy-button" data-theme="blue" data-product="UQw1x">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/UQw1x" class="payhip-buy-button" data-theme="none" data-product="UQw1x">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -150,7 +150,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp14-ember-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/ZT2uo" class="payhip-buy-button" data-theme="blue" data-product="ZT2uo">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/ZT2uo" class="payhip-buy-button" data-theme="none" data-product="ZT2uo">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -167,7 +167,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp13-retro-wave-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/xCLYz" class="payhip-buy-button" data-theme="blue" data-product="xCLYz">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/xCLYz" class="payhip-buy-button" data-theme="none" data-product="xCLYz">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -184,7 +184,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp12-sandstone-calm-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/Vq0O3" class="payhip-buy-button" data-theme="blue" data-product="Vq0O3">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/Vq0O3" class="payhip-buy-button" data-theme="none" data-product="Vq0O3">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -201,7 +201,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp11-horizon-glow-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/yt3Ws" class="payhip-buy-button" data-theme="blue" data-product="yt3Ws">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/yt3Ws" class="payhip-buy-button" data-theme="none" data-product="yt3Ws">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -218,7 +218,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp10-verdant-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/Liwpm" class="payhip-buy-button" data-theme="blue" data-product="Liwpm">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/Liwpm" class="payhip-buy-button" data-theme="none" data-product="Liwpm">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
@@ -235,7 +235,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp09-twilight-sky-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/BLgG1" class="payhip-buy-button" data-theme="blue" data-product="BLgG1">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/BLgG1" class="payhip-buy-button" data-theme="none" data-product="BLgG1">🛒 buy on payhip</a>
       </p>
     </div>
   </div>
