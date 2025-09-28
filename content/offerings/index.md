@@ -82,7 +82,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
       </div>
       <p>
         <a href="https://steadyspace.net/wp18-meadow-dawn-levels">🌿 view full details</a> &nbsp; &nbsp;
-        <a href="https://payhip.com/b/rhiEC" class="payhip-buy-button" data-theme="blue" data-product="rhiEC">🛒 buy on payhip</a>
+        <a href="https://payhip.com/b/rhiEC" class="payhip-buy-button" data-theme="none" data-product="rhiEC">🛒 buy now on payhip</a>
       </p>
     </div>
   </div>

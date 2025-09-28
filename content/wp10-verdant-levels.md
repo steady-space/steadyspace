@@ -62,7 +62,7 @@ Inspired by layered greens of meadow to forest, this pack helps your devices fee
 ---  
 
 <div style="text-align: center; margin-top: 2rem;">
-  <<a href="https://payhip.com/b/Liwpm" class="payhip-buy-button" data-theme="blue" data-product="Liwpm">Buy Now</a>
+  <a href="https://payhip.com/b/Liwpm" class="payhip-buy-button" data-theme="blue" data-product="Liwpm">Buy Now</a>
   <p style="font-size: 0.9rem; color: #777;">$5+ · Instant download · Personal use only</p>
 </div>
 
