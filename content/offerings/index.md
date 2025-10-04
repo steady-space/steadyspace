@@ -39,6 +39,42 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp23-dawn-circuit-levels/dawncircuitlevelsthumb.png" alt="Wallpaper Pack 23 Dawn Circuit Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>⚡ Wallpaper Pack 23: Dawn Circuit Levels</h3>
+<p><i>Dawn Circuit Levels</i> flows from deep violet and amethyst into cyan, lemon, and orange — natural light infused with neon edge. It balances early calm with creative charge, perfect for focused or high-energy workspaces.
+</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp23-dawn-circuit-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://payhip.com/b/54wZO" class="payhip-buy-button" data-theme="none" data-product="54wZO">🛒 buy now from payhip</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
+    <img src="/images/wp22-bloom-current-levels/bloomcurrentlevelsthumb.png" alt="Wallpaper Pack 22 Bloom Current Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌌 Wallpaper Pack 22: Bloom Current Levels</h3>
+<p><i>Bloom Current Levels</i> blends moss, olive, and pale yellow-green into warm blush and terracotta rose. Gentle and grounding, it bridges earth and flower for screens that feel alive and balanced.
+</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp22-bloom-current-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://payhip.com/b/TtiK3" class="payhip-buy-button" data-theme="none" data-product="TtiK3">🛒 buy now from payhip</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp21-aurora-mist-levels/auroramistlevelsthumb.png" alt="Wallpaper Pack 21 Aurora Mist Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🌌 Wallpaper Pack 21: Aurora Mist Levels</h3>
