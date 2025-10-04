@@ -39,6 +39,24 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <hr>
 
   <div class="offering" data-category="wallpapers">
+    <img src="/images/wp21-aurora-mist-levels/auroramistlevelsthumb.png" alt="Wallpaper Pack 21 Aurora Mist Levels thumbnail" class="thumbnail" />
+    <div class="offering-text">
+      <h3>🌌 Wallpaper Pack 21: Aurora Mist Levels</h3>
+<p><i>Aurora Mist Levels</i> brings the calm of northern skies into your workspace. Deep navy and teal flow into soft aqua, pale green, warm cream, and blush pink — a balance between night and day, cold and warmth.
+</p>
+      <div class="tags">
+        <span class="tag">🌿 Tiny shifts</span>
+      </div>
+      <p>
+        <a href="https://steadyspace.net/wp21-aurora-mist-levels">🌿 view full details</a> &nbsp; &nbsp;
+        <a href="https://payhip.com/b/U2u81" class="payhip-buy-button" data-theme="none" data-product="U2u81">🛒 buy now from payhip</a>
+      </p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="offering" data-category="wallpapers">
     <img src="/images/wp20-candy-pop-levels/candypoplevelsthumb.png" alt="Wallpaper Pack 20 Candy Pop Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
       <h3>🍭 Wallpaper Pack 20: Candy Pop Levels</h3>
