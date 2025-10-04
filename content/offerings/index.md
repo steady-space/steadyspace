@@ -59,7 +59,7 @@ gentle resources, thoughtful tools, and quiet little helpers — made with care.
   <div class="offering" data-category="wallpapers">
     <img src="/images/wp22-bloom-current-levels/bloomcurrentlevelsthumb.png" alt="Wallpaper Pack 22 Bloom Current Levels thumbnail" class="thumbnail" />
     <div class="offering-text">
-      <h3>🌌 Wallpaper Pack 22: Bloom Current Levels</h3>
+      <h3>🪴 Wallpaper Pack 22: Bloom Current Levels</h3>
 <p><i>Bloom Current Levels</i> blends moss, olive, and pale yellow-green into warm blush and terracotta rose. Gentle and grounding, it bridges earth and flower for screens that feel alive and balanced.
 </p>
       <div class="tags">
