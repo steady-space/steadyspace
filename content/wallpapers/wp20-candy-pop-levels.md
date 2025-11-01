@@ -10,9 +10,6 @@ thumb = "/images/wp20-candy-pop-levels/candypoplevelsthumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp20-candy-pop-levels/candypoplevelscover.png", alt="Candy Pop Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp19-sunset-prism-levels/sunsetprismlevelscover.png"
-
 # color palette
 hex = ["#FF006E", "#FB5607", "#FFBE0B", "#3A86FF", "#8338EC", "#FF61A6"]
 

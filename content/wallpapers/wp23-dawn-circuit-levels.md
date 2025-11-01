@@ -10,9 +10,6 @@ thumb = "/images/wp23-dawn-circuit-levels/dawncircuitlevelsthumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp23-dawn-circuit-levels/dawncircuitlevelscover.png", alt="Dawn Circuit Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp23-dawn-circuit-levels/dawncircuitlevelscoverrev.png"
-
 # color palette
 hex = ["#3C096C", "#7B2CBF", "#9D4EDD", "#5DE2E7", "#F9F871", "#F9844A"]
 

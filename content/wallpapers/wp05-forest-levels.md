@@ -10,9 +10,6 @@ thumb = "/images/wp05-forest-levels/forestlevelsthumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp05-forest-levels/forestlevelscover.png", alt="Forest Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp04-ocean-calm-levels/sunsetcoverrev.png"
-
 # color palette
 hex = ["#081C15", "#1B4332", "#2D6A4F", "#40916C", "#74C69D", "#B7E4C7"]
 

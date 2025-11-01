@@ -10,9 +10,6 @@ thumb = "/images/wp04-ocean-calm-levels/oceancalmthumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp04-ocean-calm-levels/oceancalmcover.png", alt="Ocean Calm Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp04-ocean-calm-levels/sunsetcoverrev.png"
-
 # color palette
 hex = ["#003049", "#004B6E", "#0077B6", "#00B4D8", "#90E0EF", "#CAF0F8"]
 

@@ -10,9 +10,6 @@ thumb = "/images/wp21-aurora-mist-levels/auroramistlevelsthumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp21-aurora-mist-levels/auroramistlevelscover.png", alt="Aurora Mist Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp19-sunset-prism-levels/sunsetprismlevelscover.png"
-
 # color palette
 hex = ["#102A43", "#1C7293", "#4FB3BF", "#A7C957", "#F2E8CF", "#E5989B"]
 

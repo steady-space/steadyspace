@@ -10,9 +10,6 @@ thumb = "/images/wp01-sunset-levels/sunsetthumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp01-sunset-levels/sunsetcover.png", alt="Sunset Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp01-sunset-levels/sunsetcoverrev.png"
-
 # color palette
 hex = ["#FF7B00", "#FF914D", "#FFD29D", "#FFEECF", "#7AB8FF", "#003566"]
 

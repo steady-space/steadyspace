@@ -10,9 +10,6 @@ thumb = "/images/wp06-golden-hour-levels/goldenhourlevelsthumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp06-golden-hour-levels/goldenhourlevelscover.png", alt="Golden Hour Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp04-ocean-calm-levels/sunsetcoverrev.png"
-
 # color palette
 hex = ["#FFBA08", "#FAA307", "#F48C06", "#DC2F02", "#9D0208", "#6A040F"]
 

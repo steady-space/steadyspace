@@ -10,9 +10,6 @@ thumb = "/images/wp22-bloom-current-levels/bloomcurrentlevelsthumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp22-bloom-current-levels/bloomcurrentlevelscover.png", alt="Bloom Current Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp19-sunset-prism-levels/sunsetprismlevelscover.png"
-
 # color palette
 hex = ["#31572C", "#4F772D", "#90A955", "#ECF39E", "#E9AFA3", "#C97C5D"]
 
