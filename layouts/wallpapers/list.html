@@ -1,0 +1,164 @@
+{{ define "main" }}
+<div class="ss-bleed">
+  <section class="ss-wrap">
+    <header class="ss-head">
+      <h1>Wallpapers</h1>
+      <p>Glow, Levels, & Collections — 13 sizes per pack, original + reversed.</p>
+
+      <div class="ss-filters" id="filters">
+        <button data-filter="all" class="active">All</button>
+        <button data-filter="glow">Glow ✨</button>
+        <button data-filter="levels">Levels 🪶</button>
+        <button data-filter="collection">Collections 🌀</button>
+      </div>
+    </header>
+
+    <div class="ss-grid" id="grid">
+      {{ range .Pages.ByDate.Reverse }}
+  {{ $tags := .Params.tags | default (slice) }}
+
+  {{/* --- Hardened thumbnail choice (trims whitespace & handles fallbacks) --- */}}
+  {{ $thumb   := "" }}
+  {{ $coverim := "" }}
+  {{ with .Params.thumb }}           {{ $thumb   = trim . " \t\r\n" }}        {{ end }}
+  {{ with .Params.cover.image }}     {{ $coverim = trim . " \t\r\n" }}        {{ end }}
+
+  {{ $card := "" }}
+  {{ if ne $thumb "" }}
+    {{ $card = $thumb }}
+  {{ else if and (isset .Params "mockups") (isset .Params.mockups "thumb") (ne (trim .Params.mockups.thumb " \t\r\n") "") }}
+    {{ $card = trim .Params.mockups.thumb " \t\r\n" }}
+  {{ else if ne $coverim "" }}
+    {{ $card = $coverim }}
+  {{ else }}
+    {{ $card = "/images/placeholder-thumb.jpg" }}
+  {{ end }}
+
+        {{ $hex := .Params.hex | default (slice) }}
+
+        <a class="ss-card" href="{{ .RelPermalink }}" data-tags="{{ delimit $tags " " }}">
+          <img src="{{ $card }}" alt="{{ .Title }}" loading="lazy" />
+          <h3>{{ .Title }}</h3>
+          <p>{{ with .Params.oneliner }}{{ . }}{{ else }}{{ .Description | truncate 90 }}{{ end }}</p>
+
+          {{ if gt (len $hex) 0 }}
+          <div class="ss-chips" aria-label="palette">
+            {{ range $hex }}
+              <span class="ss-chip" style="--c: {{ . }}" title="{{ . }}"></span>
+            {{ end }}
+          </div>
+          {{ end }}
+
+          <small class="ss-meta">13 sizes · original + reversed versions</small>
+        </a>
+      {{ end }}
+    </div>
+  </section>
+</div>
+
+<script>
+  const buttons = document.querySelectorAll('#filters button');
+  const cards = document.querySelectorAll('#grid .ss-card');
+  buttons.forEach(b=>{
+    b.addEventListener('click', ()=>{
+      buttons.forEach(x=>x.classList.remove('active'));
+      b.classList.add('active');
+      const f = b.dataset.filter;
+      cards.forEach(c=>{
+        const tags = (c.dataset.tags||"").toLowerCase();
+        c.style.display = (f==='all' || tags.includes(f)) ? '' : 'none';
+      });
+    });
+  });
+</script>
+
+<style>
+  .ss-bleed{position:relative;left:50%;right:50%;margin-left:-50vw;margin-right:-50vw;width:100vw;overflow-x:clip;background:inherit}
+  .ss-wrap{max-width:1680px;width:100%;margin:0 auto;padding:1.25rem clamp(1rem,3vw,2rem);box-sizing:border-box}
+
+  .ss-head h1{margin:.15rem 0;font-size:clamp(1.35rem,2.1vw,1.9rem);line-height:1.2}
+  .ss-head p{margin:.25rem 0 0;font-size:.95rem;color:#565}
+
+  .ss-filters{margin:.85rem 0 1rem;display:flex;flex-wrap:wrap;gap:.45rem}
+  .ss-filters button{border:0;border-radius:9999px;padding:.35rem .6rem;background:#f4f4f5;cursor:pointer;font-size:.85rem}
+  .ss-filters button.active{background:#e6f0ff;color:#1e3a8a}
+
+  .ss-grid{display:grid;gap:.75rem;grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+
+  /* Card container keeps rounded edges, image fills to edges */
+  .ss-card{
+    background:#fff;
+    border-radius:14px;
+    box-shadow:0 6px 16px rgba(0,0,0,.05);
+    overflow:hidden;
+    transition:transform .12s ease;
+    text-decoration:none;
+    color:inherit;
+    min-width:0;
+  }
+  .ss-card:hover{transform:translateY(-2px)}
+
+  /* Image — no border radius, fills full width of card */
+.ss-card img {
+  width: 90%;                    /* smaller than full width */
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  display: block;
+  border-radius: 5px;            /* keeps the inner mockup’s rounded edges soft */
+  margin: 0.6rem auto 0.5rem;     /* centers it with some breathing space */
+  box-shadow: 0 2px 6px rgba(0,0,0,.04); /* faint lift */
+  transition: transform .2s ease;
+}
+.ss-card:hover img {
+  transform: scale(1.015);        /* subtle hover emphasis */
+}
+
+  .ss-card h3{
+    margin:.55rem .65rem .15rem;
+    font-size:.92rem;
+    line-height:1.25;
+    min-height:2.5em;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+  }
+  .ss-card p{
+    margin:0 .65rem .35rem;
+    color:#566;
+    font-size:.82rem;
+    line-height:1.3;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    line-clamp:2;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+  }
+
+  /* chips */
+  .ss-chips{
+    display:flex;
+    gap:.25rem;
+    align-items:center;
+    margin:.2rem .65rem .45rem;
+  }
+  .ss-chip{
+    --c:#eee;
+    width:14px;
+    height:14px;
+    border-radius:3px;
+    background:var(--c);
+    box-shadow:inset 0 0 0 1px rgba(0,0,0,.06);
+    flex:0 0 14px;
+  }
+
+  .ss-meta{display:block;margin:.1rem .65rem .6rem;color:#8a8a8a;font-size:.75rem}
+  .ss-debug{font-size:.72rem;color:#999;padding:.25rem .65rem .6rem}
+
+  @media (min-width:1800px){
+    .ss-wrap{max-width:1840px}
+    .ss-grid{grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
+  }
+</style>
+{{ end }}

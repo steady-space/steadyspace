@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sunlight on steady space</title>
+    <link>http://localhost:1313/tags/sunlight/</link>
+    <description>Recent content in Sunlight on steady space</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/sunlight/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallpaper Pack 24: Solar Drift Glow</title>
+      <link>http://localhost:1313/wallpapers/wp24-solar-drift-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp24-solar-drift-glow/</guid>
+      <description>A radiant wallpaper pack blending sunlight and horizon tones into a calm, glowing gradient for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 25: Solar Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp25-solar-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp25-solar-drift-levels/</guid>
+      <description>A balanced wallpaper pack layering sunlight and horizon tones into structured gradients for desktop, tablet, and mobile.</description>
+    </item>
+  </channel>
+</rss>

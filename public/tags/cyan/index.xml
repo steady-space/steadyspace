@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cyan on steady space</title>
+    <link>http://localhost:1313/tags/cyan/</link>
+    <description>Recent content in Cyan on steady space</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/cyan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallpaper Pack 58: Prism Arc Glow</title>
+      <link>http://localhost:1313/wallpapers/wp58-prism-arc-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp58-prism-arc-glow/</guid>
+      <description>A luminous wallpaper pack blending cyan, magenta, and violet tones into a calm radial gradient.</description>
+    </item>
+  </channel>
+</rss>

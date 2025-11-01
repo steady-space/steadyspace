@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ocean on steady space</title>
+    <link>http://localhost:1313/tags/ocean/</link>
+    <description>Recent content in Ocean on steady space</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/ocean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallpaper Pack 04: Ocean Calm Levels</title>
+      <link>http://localhost:1313/wallpapers/wp04-ocean-calm-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp04-ocean-calm-levels/</guid>
+      <description>A refreshing wallpaper pack inspired by aqua tones and deep ocean blues. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 11: Horizon Glow Levels</title>
+      <link>http://localhost:1313/wallpapers/wp11-horizon-glow-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp11-horizon-glow-levels/</guid>
+      <description>A vibrant wallpaper pack blending cool ocean blues into warm sunset tones. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+  </channel>
+</rss>

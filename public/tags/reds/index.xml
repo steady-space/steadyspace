@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reds on steady space</title>
+    <link>http://localhost:1313/tags/reds/</link>
+    <description>Recent content in Reds on steady space</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/reds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallpaper Pack 08: Desert Glow Levels</title>
+      <link>http://localhost:1313/wallpapers/wp08-desert-glow-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp08-desert-glow-levels/</guid>
+      <description>A warm wallpaper pack inspired by golden sands and terracotta tones fading into night. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 11: Horizon Glow Levels</title>
+      <link>http://localhost:1313/wallpapers/wp11-horizon-glow-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp11-horizon-glow-levels/</guid>
+      <description>A vibrant wallpaper pack blending cool ocean blues into warm sunset tones. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 13: Retro Wave Levels</title>
+      <link>http://localhost:1313/wallpapers/wp13-retro-wave-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp13-retro-wave-levels/</guid>
+      <description>A bold wallpaper pack inspired by vaporwave and synthwave palettes. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 14: Ember Glow Levels</title>
+      <link>http://localhost:1313/wallpapers/wp14-ember-glow-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp14-ember-glow-levels/</guid>
+      <description>A fiery wallpaper pack inspired by flame, ember, and radiant warmth. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 19: Sunset Prism Levels</title>
+      <link>http://localhost:1313/wallpapers/wp19-sunset-prism-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp19-sunset-prism-levels/</guid>
+      <description>A bold wallpaper pack inspired by radiant rainbow tones and playful light. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 24: Solar Drift Glow</title>
+      <link>http://localhost:1313/wallpapers/wp24-solar-drift-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp24-solar-drift-glow/</guid>
+      <description>A radiant wallpaper pack blending sunlight and horizon tones into a calm, glowing gradient for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 25: Solar Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp25-solar-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp25-solar-drift-levels/</guid>
+      <description>A balanced wallpaper pack layering sunlight and horizon tones into structured gradients for desktop, tablet, and mobile.</description>
+    </item>
+  </channel>
+</rss>

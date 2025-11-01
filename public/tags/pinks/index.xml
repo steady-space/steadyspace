@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pinks on steady space</title>
+    <link>http://localhost:1313/tags/pinks/</link>
+    <description>Recent content in Pinks on steady space</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/pinks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallpaper Pack 07: Blush Calm Levels</title>
+      <link>http://localhost:1313/wallpapers/wp07-blush-calm-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp07-blush-calm-levels/</guid>
+      <description>A rosy wallpaper pack with soft blush and berry tones. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 13: Retro Wave Levels</title>
+      <link>http://localhost:1313/wallpapers/wp13-retro-wave-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp13-retro-wave-levels/</guid>
+      <description>A bold wallpaper pack inspired by vaporwave and synthwave palettes. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 15: Electric Pulse Levels</title>
+      <link>http://localhost:1313/wallpapers/wp15-electric-pulse-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp15-electric-pulse-levels/</guid>
+      <description>A neon wallpaper pack inspired by cyberpunk and high-contrast retro palettes. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 16: Aurora Glow Levels</title>
+      <link>http://localhost:1313/wallpapers/wp16-aurora-glow-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp16-aurora-glow-levels/</guid>
+      <description>A calming wallpaper pack inspired by the northern lights. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 20: Candy Pop Levels</title>
+      <link>http://localhost:1313/wallpapers/wp20-candy-pop-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp20-candy-pop-levels/</guid>
+      <description>A bold wallpaper pack inspired by neon candy tones and retro fun. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 21: Aurora Mist Levels</title>
+      <link>http://localhost:1313/wallpapers/wp21-aurora-mist-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp21-aurora-mist-levels/</guid>
+      <description>A tranquil gradient wallpaper pack inspired by the colors of auroras and soft northern light — deep navy, teal, and gentle rose fading into morning calm. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 22: Bloom Current Levels</title>
+      <link>http://localhost:1313/wallpapers/wp22-bloom-current-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp22-bloom-current-levels/</guid>
+      <description>A gentle wallpaper pack that drifts from botanical greens into soft floral tones. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Desert on steady space</title>
+    <link>http://localhost:1313/tags/desert/</link>
+    <description>Recent content in Desert on steady space</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/desert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallpaper Pack 08: Desert Glow Levels</title>
+      <link>http://localhost:1313/wallpapers/wp08-desert-glow-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp08-desert-glow-levels/</guid>
+      <description>A warm wallpaper pack inspired by golden sands and terracotta tones fading into night. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 12: Sandstone Calm Levels</title>
+      <link>http://localhost:1313/wallpapers/wp12-sandstone-calm-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp12-sandstone-calm-levels/</guid>
+      <description>A grounded wallpaper pack inspired by desert stone and golden light. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+  </channel>
+</rss>

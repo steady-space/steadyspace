@@ -7,5 +7,621 @@
     <generator>Hugo -- 0.147.3</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aurora</title>
+      <link>http://localhost:1313/tags/aurora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/aurora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Balanced</title>
+      <link>http://localhost:1313/tags/balanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/balanced/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berry</title>
+      <link>http://localhost:1313/tags/berry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/berry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blue</title>
+      <link>http://localhost:1313/tags/blue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blues</title>
+      <link>http://localhost:1313/tags/blues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blues/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blush</title>
+      <link>http://localhost:1313/tags/blush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blush/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bold</title>
+      <link>http://localhost:1313/tags/bold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bold/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Botanical</title>
+      <link>http://localhost:1313/tags/botanical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/botanical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bright</title>
+      <link>http://localhost:1313/tags/bright/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bright/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browns</title>
+      <link>http://localhost:1313/tags/browns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/browns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Calm</title>
+      <link>http://localhost:1313/tags/calm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/calm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Candy</title>
+      <link>http://localhost:1313/tags/candy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/candy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clay</title>
+      <link>http://localhost:1313/tags/clay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/clay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cool</title>
+      <link>http://localhost:1313/tags/cool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cool/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Copper</title>
+      <link>http://localhost:1313/tags/copper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/copper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coral</title>
+      <link>http://localhost:1313/tags/coral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/coral/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyberpunk</title>
+      <link>http://localhost:1313/tags/cyberpunk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cyberpunk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dark</title>
+      <link>http://localhost:1313/tags/dark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Darkmode</title>
+      <link>http://localhost:1313/tags/darkmode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/darkmode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dawn</title>
+      <link>http://localhost:1313/tags/dawn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dawn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desert</title>
+      <link>http://localhost:1313/tags/desert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/desert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dreamlike</title>
+      <link>http://localhost:1313/tags/dreamlike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dreamlike/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dusk</title>
+      <link>http://localhost:1313/tags/dusk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dusk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Earthy</title>
+      <link>http://localhost:1313/tags/earthy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/earthy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electric</title>
+      <link>http://localhost:1313/tags/electric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/electric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ember</title>
+      <link>http://localhost:1313/tags/ember/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ember/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forest</title>
+      <link>http://localhost:1313/tags/forest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/forest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fresh</title>
+      <link>http://localhost:1313/tags/fresh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fresh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gentle</title>
+      <link>http://localhost:1313/tags/gentle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gentle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Glow</title>
+      <link>http://localhost:1313/tags/glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/glow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gold</title>
+      <link>http://localhost:1313/tags/gold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gold/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golden Hour</title>
+      <link>http://localhost:1313/tags/golden-hour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/golden-hour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golds</title>
+      <link>http://localhost:1313/tags/golds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/golds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Green</title>
+      <link>http://localhost:1313/tags/green/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/green/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greens</title>
+      <link>http://localhost:1313/tags/greens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/greens/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grounded</title>
+      <link>http://localhost:1313/tags/grounded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/grounded/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horizon</title>
+      <link>http://localhost:1313/tags/horizon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/horizon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horizons</title>
+      <link>http://localhost:1313/tags/horizons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/horizons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hot Pink</title>
+      <link>http://localhost:1313/tags/hot-pink/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hot-pink/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indigo</title>
+      <link>http://localhost:1313/tags/indigo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/indigo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lavendar</title>
+      <link>http://localhost:1313/tags/lavendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lavendar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lavendars</title>
+      <link>http://localhost:1313/tags/lavendars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lavendars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Levels</title>
+      <link>http://localhost:1313/tags/levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/levels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Luminous</title>
+      <link>http://localhost:1313/tags/luminous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/luminous/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magenta</title>
+      <link>http://localhost:1313/tags/magenta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/magenta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magnet</title>
+      <link>http://localhost:1313/tags/magnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/magnet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meadows</title>
+      <link>http://localhost:1313/tags/meadows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/meadows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mist</title>
+      <link>http://localhost:1313/tags/mist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mist Blue</title>
+      <link>http://localhost:1313/tags/mist-blue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mist-blue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Navy</title>
+      <link>http://localhost:1313/tags/navy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/navy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Navy Blue</title>
+      <link>http://localhost:1313/tags/navy-blue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/navy-blue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neon</title>
+      <link>http://localhost:1313/tags/neon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/neon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Night</title>
+      <link>http://localhost:1313/tags/night/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/night/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Northern Lights</title>
+      <link>http://localhost:1313/tags/northern-lights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/northern-lights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ocean</title>
+      <link>http://localhost:1313/tags/ocean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ocean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orange</title>
+      <link>http://localhost:1313/tags/orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/orange/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oranges</title>
+      <link>http://localhost:1313/tags/oranges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oranges/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pastel</title>
+      <link>http://localhost:1313/tags/pastel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pastel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peaches</title>
+      <link>http://localhost:1313/tags/peaches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/peaches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pinks</title>
+      <link>http://localhost:1313/tags/pinks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pinks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plum</title>
+      <link>http://localhost:1313/tags/plum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/plum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prism</title>
+      <link>http://localhost:1313/tags/prism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/prism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Purple</title>
+      <link>http://localhost:1313/tags/purple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/purple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Purples</title>
+      <link>http://localhost:1313/tags/purples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/purples/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radial</title>
+      <link>http://localhost:1313/tags/radial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/radial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radiant</title>
+      <link>http://localhost:1313/tags/radiant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/radiant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rainbow</title>
+      <link>http://localhost:1313/tags/rainbow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rainbow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Red</title>
+      <link>http://localhost:1313/tags/red/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/red/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reds</title>
+      <link>http://localhost:1313/tags/reds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reds/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retro</title>
+      <link>http://localhost:1313/tags/retro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/retro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rosy</title>
+      <link>http://localhost:1313/tags/rosy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rosy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sand</title>
+      <link>http://localhost:1313/tags/sand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sand/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soft</title>
+      <link>http://localhost:1313/tags/soft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/soft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stone</title>
+      <link>http://localhost:1313/tags/stone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/stone/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sunlight</title>
+      <link>http://localhost:1313/tags/sunlight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sunlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sunrise</title>
+      <link>http://localhost:1313/tags/sunrise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sunrise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sunset</title>
+      <link>http://localhost:1313/tags/sunset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sunset/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Synthwave</title>
+      <link>http://localhost:1313/tags/synthwave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/synthwave/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tans</title>
+      <link>http://localhost:1313/tags/tans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teals</title>
+      <link>http://localhost:1313/tags/teals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/teals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terracotta</title>
+      <link>http://localhost:1313/tags/terracotta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/terracotta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tranquil</title>
+      <link>http://localhost:1313/tags/tranquil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tranquil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twilight</title>
+      <link>http://localhost:1313/tags/twilight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/twilight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vaporwave</title>
+      <link>http://localhost:1313/tags/vaporwave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vaporwave/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Verdant</title>
+      <link>http://localhost:1313/tags/verdant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/verdant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Violet</title>
+      <link>http://localhost:1313/tags/violet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/violet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Warm</title>
+      <link>http://localhost:1313/tags/warm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/warm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yellows</title>
+      <link>http://localhost:1313/tags/yellows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/yellows/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
