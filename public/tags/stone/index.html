@@ -10,7 +10,7 @@
 <meta name="description" content="a calming hub of digital tools and gentle guidance.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/tags/stone/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.d220f6079ef1646017492e160568c9d8daf5119076ec203721cad512d8debd9f.css" integrity="sha256-0iD2B57xZGAXSS4WBWjJ2Nr1EZB27CA3IcrVEtjevZ8=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.62f8c2c5591643d0769d7d656c8373b55e78c0e91dc73117ca4a94958b16758c.css" integrity="sha256-YvjCxVkWQ9B2nX1lbINztV54wOkdxzEXykqUlYsWdYw=" rel="preload stylesheet" as="style">
 
 
 <link rel="stylesheet" href="/css/custom.min.b4cfc3de7c26281b1acfd6606c411d92495b0a34cd7129f9508103316ff6e5f7.css" integrity="sha256-tM/D3nwmKBsaz9ZgbEEdkklbCjTNcSn5UIEDMW/25fc=" crossorigin="anonymous">
@@ -74,19 +74,7 @@
 
 </head>
 
-<body class="list" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
-</script>
-
-<header class="header">
+<body class="list" id="top"><header class="header">
     <nav class="nav">
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="steady space (Alt + H)">steady space</a>
@@ -158,6 +146,44 @@ Heat softens to calm. 🌾 🤎 Perfect for: 🌾 Earth-tone &#43; neutral color
   <footer class="entry-footer"></footer>
   <a class="entry-link" aria-label="post link to Wallpaper Pack 12: Sandstone Calm Levels" href="http://localhost:1313/wallpapers/wp12-sandstone-calm-levels/"></a>
 </article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="http://localhost:1313/images/wp48-quartz-drift-glow/quartzdriftglowcover.png" alt="Quartz Drift Glow — wide cover">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Wallpaper Pack 48: Quartz Drift Glow
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> 🩶 Light, calm, and clarity.
+Quartz Drift Glow captures the stillness of diffused light — soft slate shadows fading into pale silver and quartz white. Modern, minimal, and perfectly balanced for calm clarity.
+Stone breathes into light, Still air drifts through silver calm,
+Clarity takes form. 🩶 🩶 Perfect for: 💻 Minimal, modern setups 🩶 Neutral spaces needing calm tone and balance ☁️ Workspaces that favor clarity over color Quiet light, clean focus, balanced calm.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Wallpaper Pack 48: Quartz Drift Glow" href="http://localhost:1313/wallpapers/wp48-quartz-drift-glow/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+<figure class="entry-cover">
+        <img loading="lazy" src="http://localhost:1313/images/wp49-quartz-drift-levels/quartzdriftlevelscover.png" alt="Quartz Drift Levels — wide cover">
+</figure>
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">Wallpaper Pack 49: Quartz Drift Levels
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p> 🩶 Layered light, quiet order.
+Quartz Drift Levels refines the quiet energy of Quartz Drift Glow into layered clarity — six smooth gradients of gray, silver, and stone white. A clean foundation for focused spaces.
+Light lines cross the gray, Stone and air breathe silent form,
+Calm becomes the shape. 🩶 🩶 Perfect for: 💻 Minimal setups that value structure 🩶 Neutral, modern workspaces ☁️ Calm multi-monitor layouts Stillness made solid — balance through simplicity.
+...</p>
+  </div>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to Wallpaper Pack 49: Quartz Drift Levels" href="http://localhost:1313/wallpapers/wp49-quartz-drift-levels/"></a>
+</article>
     </main>
     
 <footer class="footer">
@@ -176,9 +202,14 @@ Heat softens to calm. 🌾 🤎 Perfect for: 🌾 Earth-tone &#43; neutral color
 </a>
 
 <script>
-    let menu = document.getElementById('menu')
+    let menu = document.getElementById('menu');
     if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
         menu.onscroll = function () {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
         }
@@ -219,11 +250,12 @@ Heat softens to calm. 🌾 🤎 Perfect for: 🌾 Earth-tone &#43; neutral color
 </script>
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
             localStorage.setItem("pref-theme", 'light');
         } else {
-            document.body.classList.add('dark');
+            html.dataset.theme = 'dark';
             localStorage.setItem("pref-theme", 'dark');
         }
     })

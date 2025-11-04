@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/wallpapers/wp64-eucalyptus-drift-glow/</guid>
       <description>A coastal-toned wallpaper pack blending ocean teal, jade, and misted white into a tranquil, sea-glass gradient for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 65: Eucalyptus Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp65-eucalyptus-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp65-eucalyptus-drift-levels/</guid>
+      <description>A coastal wallpaper pack layering teal, jade, and mist tones into soft horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

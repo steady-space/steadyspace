@@ -11,9 +11,17 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-05-19T19:45:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/apricot/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/aqua/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/aurora/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/aurora-glow-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/balanced/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/beige/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/berry/</loc>
   </url><url>
@@ -29,7 +37,11 @@
   </url><url>
     <loc>http://localhost:1313/tags/bright/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/brown/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/browns/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/bundle/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/calm/</loc>
   </url><url>
@@ -43,7 +55,17 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/charcoal/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/clay/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/coastal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/cold/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/collection/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/collections/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/cool/</loc>
   </url><url>
@@ -51,13 +73,25 @@
   </url><url>
     <loc>http://localhost:1313/tags/coral/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/cosmic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/cosmic-drift-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/cyan/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/cyberpunk/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/dark/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/darkmode/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/darkmode-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/dawn/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/daylight/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/deep/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/desert/</loc>
   </url><url>
@@ -71,7 +105,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/ember/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/fire/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/flame/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/floral/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/forest/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/forest-levels/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/fresh/</loc>
   </url><url>
@@ -83,21 +125,37 @@
   </url><url>
     <loc>http://localhost:1313/tags/golden-hour/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/golden-hour-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/golds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/graphite/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/gray/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/green/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/greens/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/grey/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/grounded/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/horizon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/horizon-glow-levels/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/horizons/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/hot-pink/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/icy/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/indigo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/ivory/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/jade/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/lavendar/</loc>
   </url><url>
@@ -117,17 +175,33 @@
   </url><url>
     <loc>http://localhost:1313/wallpapers/wp-levels-collection-volume-5/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/linen/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/luminous/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/magenta/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/magnet/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/mauve/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/meadow-dawn-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/meadows/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/meditative/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/metal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/minimalist/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/mint/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/mist/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/mist-blue/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/misty/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/navy/</loc>
   </url><url>
@@ -135,13 +209,19 @@
   </url><url>
     <loc>http://localhost:1313/tags/neon/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/neutral/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/night/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/northern-lights/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/ocean/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/ocean-calm-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/offerings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/opalescent/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/orange/</loc>
   </url><url>
@@ -149,11 +229,17 @@
   </url><url>
     <loc>http://localhost:1313/tags/pastel/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/pastel-calm-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/peaches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/pink/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/pinks/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/plum/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/powder-blue/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/prism/</loc>
   </url><url>
@@ -173,11 +259,37 @@
   </url><url>
     <loc>http://localhost:1313/tags/retro/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/rose/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/rosy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sage/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/sand/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/sandstone-calm-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/say-hello/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sea-glass/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/seafoam/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/serene/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/serenity/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/silver/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/silvers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sky/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/slate-gray/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/smoke/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/soft/</loc>
   </url><url>
@@ -189,11 +301,17 @@
   </url><url>
     <loc>http://localhost:1313/tags/sunset/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/sunset-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/synthwave/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/tan/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/tans/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/teal/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/teals/</loc>
   </url><url>
@@ -203,11 +321,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/tranquil/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/turquoise/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/twilight/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/vaporwave/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/verdant/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/verdant-levels/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/violet/</loc>
   </url><url>
@@ -271,11 +393,119 @@
   </url><url>
     <loc>http://localhost:1313/wallpapers/wp30-copper-drift-glow/</loc>
   </url><url>
+    <loc>http://localhost:1313/wallpapers/wp31-copper-drift-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp32-mist-arc-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp33-mist-arc-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp34-sage-flow-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp35-sage-flow-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp36-morning-loom-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp37-morning-loom-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp38-rose-veil-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp39-rose-veil-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp40-deep-loom-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp41-deep-loom-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp42-willow-arc-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp43-willow-arc-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp44-driftline-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp45-driftline-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp48-quartz-drift-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp49-quartz-drift-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp50-emberline-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp51-emberline-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp52-amethyst-loom-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp53-amethyst-loom-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp54-linen-arc-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp55-linen-arc-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp56-aether-field-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp57-aether-field-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp58-prism-arc-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp59-prism-arc-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp60-nebula-trace-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp61-nebula-trace-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp62-sol-current-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp63-sol-current-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp64-eucalyptus-drift-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp65-eucalyptus-drift-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp66-glacial-pulse-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp67-glacial-pulse-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp68-halo-verge-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp69-halo-verge-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp70-cinder-vale-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp71-cinder-vale-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp72-vera-loom-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp73-vera-loom-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp74-iridescent-loom-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp75-iridescent-loom-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp76-vapor-trace-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp77-vapor-trace-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp78-halcyon-verge-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp79-halcyon-verge-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp80-chromaflux-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp81-chromaflux-levels/</loc>
+  </url><url>
     <loc>http://localhost:1313/wallpapers/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/warm/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/water/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/white/</loc>
+  </url><url>
     <loc>http://localhost:1313/wild-serenity/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/yellow/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/yellows/</loc>
   </url><url>

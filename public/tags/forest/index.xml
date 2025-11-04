@@ -8,11 +8,39 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/forest/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Levels Collection: Volume 2</title>
+      <link>http://localhost:1313/wallpapers/wp-levels-collection-volume-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-2/</guid>
+      <description>A wallpaper bundle featuring Ocean Calm Levels, Forest Levels, and Golden Hour Levels packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Levels Collection: Volume 3</title>
+      <link>http://localhost:1313/wallpapers/wp-levels-collection-volume-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-3/</guid>
+      <description>A wallpaper bundle featuring Blush Calm, Desert Glow, and Twilight Sky packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
       <title>Wallpaper Pack 05: Forest Levels</title>
       <link>http://localhost:1313/wallpapers/wp05-forest-levels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wallpapers/wp05-forest-levels/</guid>
       <description>A grounded wallpaper pack inspired by pine greens and moss tones. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 34: Sage Flow Glow</title>
+      <link>http://localhost:1313/wallpapers/wp34-sage-flow-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp34-sage-flow-glow/</guid>
+      <description>A soft green wallpaper pack that flows from forest depths to pale daylight mist — a refreshing gradient for calm focus.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 35: Sage Flow Levels</title>
+      <link>http://localhost:1313/wallpapers/wp35-sage-flow-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp35-sage-flow-levels/</guid>
+      <description>A structured, minimal wallpaper pack layering sage greens and mist tones into calm, horizontal gradients.</description>
     </item>
   </channel>
 </rss>

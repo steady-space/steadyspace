@@ -14,5 +14,40 @@
       <guid>http://localhost:1313/wallpapers/wp40-deep-loom-glow/</guid>
       <description>A meditative wallpaper pack weaving violet and silver tones into calm, radiant balance.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 41: Deep Loom Levels</title>
+      <link>http://localhost:1313/wallpapers/wp41-deep-loom-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp41-deep-loom-levels/</guid>
+      <description>A calm, structured wallpaper pack layering violet and silver tones into soft horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 42: Willow Arc Glow</title>
+      <link>http://localhost:1313/wallpapers/wp42-willow-arc-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp42-willow-arc-glow/</guid>
+      <description>A natural wallpaper pack blending green-gray and mist tones into a calm, balanced glow.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 43: Willow Arc Levels</title>
+      <link>http://localhost:1313/wallpapers/wp43-willow-arc-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp43-willow-arc-levels/</guid>
+      <description>A calm, structured wallpaper pack layering botanical green and mist tones into balanced horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 52: Amethyst Loom Glow</title>
+      <link>http://localhost:1313/wallpapers/wp52-amethyst-loom-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp52-amethyst-loom-glow/</guid>
+      <description>A cool, meditative wallpaper pack blending violet and silver tones into a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 53: Amethyst Loom Levels</title>
+      <link>http://localhost:1313/wallpapers/wp53-amethyst-loom-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp53-amethyst-loom-levels/</guid>
+      <description>A cool, structured wallpaper pack layering violet and silver tones into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

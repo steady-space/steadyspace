@@ -14,5 +14,40 @@
       <guid>http://localhost:1313/wallpapers/wp22-bloom-current-levels/</guid>
       <description>A gentle wallpaper pack that drifts from botanical greens into soft floral tones. Includes multiple device sizes for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 34: Sage Flow Glow</title>
+      <link>http://localhost:1313/wallpapers/wp34-sage-flow-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp34-sage-flow-glow/</guid>
+      <description>A soft green wallpaper pack that flows from forest depths to pale daylight mist — a refreshing gradient for calm focus.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 35: Sage Flow Levels</title>
+      <link>http://localhost:1313/wallpapers/wp35-sage-flow-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp35-sage-flow-levels/</guid>
+      <description>A structured, minimal wallpaper pack layering sage greens and mist tones into calm, horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 43: Willow Arc Levels</title>
+      <link>http://localhost:1313/wallpapers/wp43-willow-arc-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp43-willow-arc-levels/</guid>
+      <description>A calm, structured wallpaper pack layering botanical green and mist tones into balanced horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 46: Tidal Veil Glow</title>
+      <link>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</guid>
+      <description>A cool, ocean-inspired wallpaper pack blending teal, seafoam, and horizon tones in a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 47: Tidal Veil Levels</title>
+      <link>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</guid>
+      <description>A cool, structured wallpaper pack layering teal and horizon tones into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

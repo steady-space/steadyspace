@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/ocean/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Levels Collection: Volume 2</title>
+      <link>http://localhost:1313/wallpapers/wp-levels-collection-volume-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-2/</guid>
+      <description>A wallpaper bundle featuring Ocean Calm Levels, Forest Levels, and Golden Hour Levels packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Levels Collection: Volume 3</title>
+      <link>http://localhost:1313/wallpapers/wp-levels-collection-volume-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-3/</guid>
+      <description>A wallpaper bundle featuring Blush Calm, Desert Glow, and Twilight Sky packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
       <title>Wallpaper Pack 04: Ocean Calm Levels</title>
       <link>http://localhost:1313/wallpapers/wp04-ocean-calm-levels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,6 +34,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wallpapers/wp11-horizon-glow-levels/</guid>
       <description>A vibrant wallpaper pack blending cool ocean blues into warm sunset tones. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 46: Tidal Veil Glow</title>
+      <link>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</guid>
+      <description>A cool, ocean-inspired wallpaper pack blending teal, seafoam, and horizon tones in a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 47: Tidal Veil Levels</title>
+      <link>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</guid>
+      <description>A cool, structured wallpaper pack layering teal and horizon tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 64: Eucalyptus Drift Glow</title>
+      <link>http://localhost:1313/wallpapers/wp64-eucalyptus-drift-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp64-eucalyptus-drift-glow/</guid>
+      <description>A coastal-toned wallpaper pack blending ocean teal, jade, and misted white into a tranquil, sea-glass gradient for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 65: Eucalyptus Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp65-eucalyptus-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp65-eucalyptus-drift-levels/</guid>
+      <description>A coastal wallpaper pack layering teal, jade, and mist tones into soft horizontal gradients.</description>
     </item>
   </channel>
 </rss>

@@ -21,5 +21,19 @@
       <guid>http://localhost:1313/wallpapers/wp25-solar-drift-levels/</guid>
       <description>A balanced wallpaper pack layering sunlight and horizon tones into structured gradients for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 68: Halo Verge Glow</title>
+      <link>http://localhost:1313/wallpapers/wp68-halo-verge-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp68-halo-verge-glow/</guid>
+      <description>A radiant wallpaper pack blending indigo, turquoise, and soft gold into a luminous gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 69: Halo Verge Levels</title>
+      <link>http://localhost:1313/wallpapers/wp69-halo-verge-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp69-halo-verge-levels/</guid>
+      <description>A serene wallpaper pack layering indigo, turquoise, and pale gold into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

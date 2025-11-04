@@ -14,5 +14,26 @@
       <guid>http://localhost:1313/wallpapers/wp36-morning-loom-glow/</guid>
       <description>A calm wallpaper pack blending misty blue and slate tones into a soft, balanced glow — perfect for bright, minimalist setups that need quiet focus.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 37: Morning Loom Levels</title>
+      <link>http://localhost:1313/wallpapers/wp37-morning-loom-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp37-morning-loom-levels/</guid>
+      <description>A calm, structured wallpaper pack layering misty blue and slate tones into soft horizontal gradients for focus and balance.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 48: Quartz Drift Glow</title>
+      <link>http://localhost:1313/wallpapers/wp48-quartz-drift-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp48-quartz-drift-glow/</guid>
+      <description>A clean, minimalist wallpaper pack blending slate gray, silver, and pale stone tones into a balanced radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 49: Quartz Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp49-quartz-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp49-quartz-drift-levels/</guid>
+      <description>A minimalist wallpaper pack layering slate, silver, and pale stone tones into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

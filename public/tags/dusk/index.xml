@@ -21,5 +21,33 @@
       <guid>http://localhost:1313/wallpapers/wp14-ember-glow-levels/</guid>
       <description>A fiery wallpaper pack inspired by flame, ember, and radiant warmth. Includes multiple device sizes for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 50: Emberline Glow</title>
+      <link>http://localhost:1313/wallpapers/wp50-emberline-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp50-emberline-glow/</guid>
+      <description>A warm dusk wallpaper pack blending copper, sand, and violet tones into a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 51: Emberline Levels</title>
+      <link>http://localhost:1313/wallpapers/wp51-emberline-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp51-emberline-levels/</guid>
+      <description>A warm dusk wallpaper pack layering copper, sand, and violet tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 70: Cinder Vale Glow</title>
+      <link>http://localhost:1313/wallpapers/wp70-cinder-vale-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp70-cinder-vale-glow/</guid>
+      <description>A warm wallpaper pack blending ember copper, plum smoke, and pale sand into a glowing gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 71: Cinder Vale Levels</title>
+      <link>http://localhost:1313/wallpapers/wp71-cinder-vale-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp71-cinder-vale-levels/</guid>
+      <description>A layered wallpaper pack arranging plum, copper, and sand tones into warm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

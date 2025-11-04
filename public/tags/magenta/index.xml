@@ -14,5 +14,19 @@
       <guid>http://localhost:1313/wallpapers/wp17-cosmic-drift-levels/</guid>
       <description>A calming wallpaper pack inspired by drifting galaxies and starlit skies. Includes multiple device sizes for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 58: Prism Arc Glow</title>
+      <link>http://localhost:1313/wallpapers/wp58-prism-arc-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp58-prism-arc-glow/</guid>
+      <description>A luminous wallpaper pack blending cyan, magenta, and violet tones into a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 59: Prism Arc Levels</title>
+      <link>http://localhost:1313/wallpapers/wp59-prism-arc-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp59-prism-arc-levels/</guid>
+      <description>A radiant wallpaper pack layering cyan, magenta, and violet tones into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

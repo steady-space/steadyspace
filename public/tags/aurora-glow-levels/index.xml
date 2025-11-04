@@ -8,11 +8,18 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/aurora-glow-levels/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Levels Collection: Bold Volume 1</title>
+      <link>http://localhost:1313/wallpapers/wp-levels-collection-bold-volume-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-levels-collection-bold-volume-1/</guid>
+      <description>A bold wallpaper bundle featuring Retro Wave, Ember Glow, and Electric Pulse, sized for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
       <title>Levels Collection: Volume 5</title>
       <link>http://localhost:1313/wallpapers/wp-levels-collection-volume-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-5/</guid>
-      <description>A wallpaper bundle featuring Aurora Glow Levels, Cosmic Drift Levels, and Meadow Dawn Levels packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+      <description>Three wallpaper packs inspired by the skies — aurora, galaxies, and dawn. Includes 13 device sizes per pack.</description>
     </item>
   </channel>
 </rss>

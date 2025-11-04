@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/wallpapers/wp23-dawn-circuit-levels/</guid>
       <description>A bold gradient wallpaper pack that fuses dawn colors with neon energy — nature meets tech in soft violet, cyan, and lemon tones. Includes multiple device sizes for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 63: Sol Current Levels</title>
+      <link>http://localhost:1313/wallpapers/wp63-sol-current-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp63-sol-current-levels/</guid>
+      <description>A sunrise wallpaper pack layering coral, gold, and powder blue tones into balanced horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

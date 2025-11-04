@@ -21,5 +21,40 @@
       <guid>http://localhost:1313/wallpapers/wp30-copper-drift-glow/</guid>
       <description>A warm wallpaper pack blending indigo, plum, and copper tones into a balanced, glowing gradient for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 31: Copper Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp31-copper-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp31-copper-drift-levels/</guid>
+      <description>A calm wallpaper pack layering copper, plum, and ivory tones into soft horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 70: Cinder Vale Glow</title>
+      <link>http://localhost:1313/wallpapers/wp70-cinder-vale-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp70-cinder-vale-glow/</guid>
+      <description>A warm wallpaper pack blending ember copper, plum smoke, and pale sand into a glowing gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 71: Cinder Vale Levels</title>
+      <link>http://localhost:1313/wallpapers/wp71-cinder-vale-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp71-cinder-vale-levels/</guid>
+      <description>A layered wallpaper pack arranging plum, copper, and sand tones into warm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 78: Halcyon Verge Glow</title>
+      <link>http://localhost:1313/wallpapers/wp78-halcyon-verge-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp78-halcyon-verge-glow/</guid>
+      <description>A serene wallpaper pack blending indigo, teal, and apricot into a balanced, luminous gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 79: Halcyon Verge Levels</title>
+      <link>http://localhost:1313/wallpapers/wp79-halcyon-verge-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp79-halcyon-verge-levels/</guid>
+      <description>A balanced wallpaper pack layering indigo, teal, and apricot tones into horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

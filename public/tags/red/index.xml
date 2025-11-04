@@ -14,5 +14,19 @@
       <guid>http://localhost:1313/wallpapers/wp06-golden-hour-levels/</guid>
       <description>A warm color palette capturing the glow, the warmth, and the sense of transition from day to night. Includes multiple device sizes for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 80: Chromaflux Glow</title>
+      <link>http://localhost:1313/wallpapers/wp80-chromaflux-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp80-chromaflux-glow/</guid>
+      <description>Chromaflux Glow captures transition in full spectrum — orange into gold, sage into violet. A balance of tension and release, it’s a design for focus that wanders and ideas that spark between moods.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 81: Chromaflux Levels</title>
+      <link>http://localhost:1313/wallpapers/wp81-chromaflux-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp81-chromaflux-levels/</guid>
+      <description>Chromaflux Levels arranges warmth and shadow into steady rhythm. Each band carries a trace of motion — a horizon built from opposites. Ideal for color-forward setups and creative balance.</description>
+    </item>
   </channel>
 </rss>

@@ -14,5 +14,54 @@
       <guid>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</guid>
       <description>A cool, ocean-inspired wallpaper pack blending teal, seafoam, and horizon tones in a calm radial gradient.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 47: Tidal Veil Levels</title>
+      <link>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</guid>
+      <description>A cool, structured wallpaper pack layering teal and horizon tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 60: Nebula Trace Glow</title>
+      <link>http://localhost:1313/wallpapers/wp60-nebula-trace-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp60-nebula-trace-glow/</guid>
+      <description>A cosmic wallpaper pack blending violet, cyan, and teal tones into a luminous radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 61: Nebula Trace Levels</title>
+      <link>http://localhost:1313/wallpapers/wp61-nebula-trace-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp61-nebula-trace-levels/</guid>
+      <description>A cosmic wallpaper pack layering violet, cyan, and teal tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 64: Eucalyptus Drift Glow</title>
+      <link>http://localhost:1313/wallpapers/wp64-eucalyptus-drift-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp64-eucalyptus-drift-glow/</guid>
+      <description>A coastal-toned wallpaper pack blending ocean teal, jade, and misted white into a tranquil, sea-glass gradient for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 65: Eucalyptus Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp65-eucalyptus-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp65-eucalyptus-drift-levels/</guid>
+      <description>A coastal wallpaper pack layering teal, jade, and mist tones into soft horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 68: Halo Verge Glow</title>
+      <link>http://localhost:1313/wallpapers/wp68-halo-verge-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp68-halo-verge-glow/</guid>
+      <description>A radiant wallpaper pack blending indigo, turquoise, and soft gold into a luminous gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 69: Halo Verge Levels</title>
+      <link>http://localhost:1313/wallpapers/wp69-halo-verge-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp69-halo-verge-levels/</guid>
+      <description>A serene wallpaper pack layering indigo, turquoise, and pale gold into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

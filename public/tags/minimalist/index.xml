@@ -14,5 +14,54 @@
       <guid>http://localhost:1313/wallpapers/wp44-driftline-glow/</guid>
       <description>A minimalist wallpaper pack blending graphite and silver tones into a calm, radial gradient.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 45: Driftline Levels</title>
+      <link>http://localhost:1313/wallpapers/wp45-driftline-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp45-driftline-levels/</guid>
+      <description>A minimalist wallpaper pack layering graphite and mist tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 46: Tidal Veil Glow</title>
+      <link>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</guid>
+      <description>A cool, ocean-inspired wallpaper pack blending teal, seafoam, and horizon tones in a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 47: Tidal Veil Levels</title>
+      <link>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</guid>
+      <description>A cool, structured wallpaper pack layering teal and horizon tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 54: Linen Arc Glow</title>
+      <link>http://localhost:1313/wallpapers/wp54-linen-arc-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp54-linen-arc-glow/</guid>
+      <description>A minimal wallpaper pack blending soft white and beige tones into a balanced radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 55: Linen Arc Levels</title>
+      <link>http://localhost:1313/wallpapers/wp55-linen-arc-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp55-linen-arc-levels/</guid>
+      <description>A neutral wallpaper pack layering soft white and beige tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 56: Aether Field Glow</title>
+      <link>http://localhost:1313/wallpapers/wp56-aether-field-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp56-aether-field-glow/</guid>
+      <description>A calm wallpaper pack blending indigo and sky tones into a soft radial gradient of horizon light.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 57: Aether Field Levels</title>
+      <link>http://localhost:1313/wallpapers/wp57-aether-field-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp57-aether-field-levels/</guid>
+      <description>A horizon-inspired wallpaper pack layering indigo and sky tones into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

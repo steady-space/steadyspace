@@ -10,9 +10,6 @@ thumb = "/images/wp03-dark-mode-levels/darkmodethumb.png"
 # Inline table avoids any table scope weirdness
 cover = { image="/images/wp03-dark-mode-levels/darkmodecover.png", alt="Dark Mode Levels — wide cover", relative=true }
 
-# optional reversed cover (shown in mini gallery if present)
-cover_rev = "/images/wp03-dark-mode-levels/sunsetcoverrev.png"
-
 # color palette
 hex = ["#0B090A", "#161A1D", "#660708", "#A4161A", "#BA181B", "#E5383B"]
 

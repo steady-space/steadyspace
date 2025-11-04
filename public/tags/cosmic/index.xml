@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/wallpapers/wp60-nebula-trace-glow/</guid>
       <description>A cosmic wallpaper pack blending violet, cyan, and teal tones into a luminous radial gradient.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 61: Nebula Trace Levels</title>
+      <link>http://localhost:1313/wallpapers/wp61-nebula-trace-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp61-nebula-trace-levels/</guid>
+      <description>A cosmic wallpaper pack layering violet, cyan, and teal tones into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

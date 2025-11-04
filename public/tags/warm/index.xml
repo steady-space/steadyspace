@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/warm/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Levels Collection: Volume 1</title>
+      <link>http://localhost:1313/wallpapers/wp-levels-collection-volume-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-1/</guid>
+      <description>A wallpaper bundle featuring Sunset Levels, Pastel Calm Levels, and Dark Mode Levels packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
       <title>Wallpaper Pack 01: Sunset Levels</title>
       <link>http://localhost:1313/wallpapers/wp01-sunset-levels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -104,6 +111,97 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wallpapers/wp30-copper-drift-glow/</guid>
       <description>A warm wallpaper pack blending indigo, plum, and copper tones into a balanced, glowing gradient for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 31: Copper Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp31-copper-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp31-copper-drift-levels/</guid>
+      <description>A calm wallpaper pack layering copper, plum, and ivory tones into soft horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 38: Rose Veil Glow</title>
+      <link>http://localhost:1313/wallpapers/wp38-rose-veil-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp38-rose-veil-glow/</guid>
+      <description>A soft, rose-toned wallpaper pack blending mauve and linen light into a gentle, balanced glow.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 39: Rose Veil Levels</title>
+      <link>http://localhost:1313/wallpapers/wp39-rose-veil-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp39-rose-veil-levels/</guid>
+      <description>A structured wallpaper pack layering mauve and ivory tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 50: Emberline Glow</title>
+      <link>http://localhost:1313/wallpapers/wp50-emberline-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp50-emberline-glow/</guid>
+      <description>A warm dusk wallpaper pack blending copper, sand, and violet tones into a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 51: Emberline Levels</title>
+      <link>http://localhost:1313/wallpapers/wp51-emberline-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp51-emberline-levels/</guid>
+      <description>A warm dusk wallpaper pack layering copper, sand, and violet tones into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 68: Halo Verge Glow</title>
+      <link>http://localhost:1313/wallpapers/wp68-halo-verge-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp68-halo-verge-glow/</guid>
+      <description>A radiant wallpaper pack blending indigo, turquoise, and soft gold into a luminous gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 69: Halo Verge Levels</title>
+      <link>http://localhost:1313/wallpapers/wp69-halo-verge-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp69-halo-verge-levels/</guid>
+      <description>A serene wallpaper pack layering indigo, turquoise, and pale gold into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 70: Cinder Vale Glow</title>
+      <link>http://localhost:1313/wallpapers/wp70-cinder-vale-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp70-cinder-vale-glow/</guid>
+      <description>A warm wallpaper pack blending ember copper, plum smoke, and pale sand into a glowing gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 71: Cinder Vale Levels</title>
+      <link>http://localhost:1313/wallpapers/wp71-cinder-vale-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp71-cinder-vale-levels/</guid>
+      <description>A layered wallpaper pack arranging plum, copper, and sand tones into warm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 72: Vera Loom Glow</title>
+      <link>http://localhost:1313/wallpapers/wp72-vera-loom-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp72-vera-loom-glow/</guid>
+      <description>A floral-inspired wallpaper pack blending plum, rose, mint, and ivory in a soft radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 73: Vera Loom Levels</title>
+      <link>http://localhost:1313/wallpapers/wp73-vera-loom-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp73-vera-loom-levels/</guid>
+      <description>A layered wallpaper pack arranging plum, rose, mint, and ivory tones into horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 74: Iridescent Loom Glow</title>
+      <link>http://localhost:1313/wallpapers/wp74-iridescent-loom-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp74-iridescent-loom-glow/</guid>
+      <description>A luminous wallpaper pack blending violet, pink, and mint into an opalescent gradient for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 75: Iridescent Loom Levels</title>
+      <link>http://localhost:1313/wallpapers/wp75-iridescent-loom-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp75-iridescent-loom-levels/</guid>
+      <description>A pastel wallpaper pack layering violet, pink, and mint tones into soft horizontal gradients.</description>
     </item>
   </channel>
 </rss>

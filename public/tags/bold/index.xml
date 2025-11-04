@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/bold/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Levels Collection: Volume 1</title>
+      <link>http://localhost:1313/wallpapers/wp-levels-collection-volume-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-1/</guid>
+      <description>A wallpaper bundle featuring Sunset Levels, Pastel Calm Levels, and Dark Mode Levels packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
       <title>Wallpaper Pack 03: Darkmode Levels</title>
       <link>http://localhost:1313/wallpapers/wp03-dark-mode-levels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +48,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wallpapers/wp20-candy-pop-levels/</guid>
       <description>A bold wallpaper pack inspired by neon candy tones and retro fun. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 58: Prism Arc Glow</title>
+      <link>http://localhost:1313/wallpapers/wp58-prism-arc-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp58-prism-arc-glow/</guid>
+      <description>A luminous wallpaper pack blending cyan, magenta, and violet tones into a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 59: Prism Arc Levels</title>
+      <link>http://localhost:1313/wallpapers/wp59-prism-arc-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp59-prism-arc-levels/</guid>
+      <description>A radiant wallpaper pack layering cyan, magenta, and violet tones into calm horizontal gradients.</description>
     </item>
   </channel>
 </rss>

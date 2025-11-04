@@ -98,5 +98,33 @@
       <guid>http://localhost:1313/wallpapers/wp27-magnet-stream-levels/</guid>
       <description>A structured wallpaper pack layering aurora blues and magnetic teals into calm, balanced bands for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 32: Mist Arc Glow</title>
+      <link>http://localhost:1313/wallpapers/wp32-mist-arc-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp32-mist-arc-glow/</guid>
+      <description>A cool, minimal wallpaper pack blending slate blue and pale mist tones in a calm radial gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 33: Mist Arc Levels</title>
+      <link>http://localhost:1313/wallpapers/wp33-mist-arc-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp33-mist-arc-levels/</guid>
+      <description>A calm, structured wallpaper pack layering mist blues and daylight neutrals into steady horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 36: Morning Loom Glow</title>
+      <link>http://localhost:1313/wallpapers/wp36-morning-loom-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp36-morning-loom-glow/</guid>
+      <description>A calm wallpaper pack blending misty blue and slate tones into a soft, balanced glow — perfect for bright, minimalist setups that need quiet focus.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 37: Morning Loom Levels</title>
+      <link>http://localhost:1313/wallpapers/wp37-morning-loom-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp37-morning-loom-levels/</guid>
+      <description>A calm, structured wallpaper pack layering misty blue and slate tones into soft horizontal gradients for focus and balance.</description>
+    </item>
   </channel>
 </rss>

@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-2/</guid>
       <description>A wallpaper bundle featuring Ocean Calm Levels, Forest Levels, and Golden Hour Levels packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Levels Collection: Volume 3</title>
+      <link>http://localhost:1313/wallpapers/wp-levels-collection-volume-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-levels-collection-volume-3/</guid>
+      <description>A wallpaper bundle featuring Blush Calm, Desert Glow, and Twilight Sky packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
+    </item>
   </channel>
 </rss>

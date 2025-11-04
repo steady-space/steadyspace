@@ -14,5 +14,26 @@
       <guid>http://localhost:1313/wallpapers/wp30-copper-drift-glow/</guid>
       <description>A warm wallpaper pack blending indigo, plum, and copper tones into a balanced, glowing gradient for desktop, tablet, and mobile.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 31: Copper Drift Levels</title>
+      <link>http://localhost:1313/wallpapers/wp31-copper-drift-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp31-copper-drift-levels/</guid>
+      <description>A calm wallpaper pack layering copper, plum, and ivory tones into soft horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 62: Sol Current Glow</title>
+      <link>http://localhost:1313/wallpapers/wp62-sol-current-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp62-sol-current-glow/</guid>
+      <description>A radiant wallpaper pack blending coral, gold, and powder blue tones into a calm, luminous gradient.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 63: Sol Current Levels</title>
+      <link>http://localhost:1313/wallpapers/wp63-sol-current-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp63-sol-current-levels/</guid>
+      <description>A sunrise wallpaper pack layering coral, gold, and powder blue tones into balanced horizontal gradients.</description>
+    </item>
   </channel>
 </rss>

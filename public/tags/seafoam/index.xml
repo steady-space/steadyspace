@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/wallpapers/wp46-tidal-veil-glow/</guid>
       <description>A cool, ocean-inspired wallpaper pack blending teal, seafoam, and horizon tones in a calm radial gradient.</description>
     </item>
+    <item>
+      <title>Wallpaper Pack 47: Tidal Veil Levels</title>
+      <link>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp47-tidal-veil-levels/</guid>
+      <description>A cool, structured wallpaper pack layering teal and horizon tones into calm horizontal gradients.</description>
+    </item>
   </channel>
 </rss>
