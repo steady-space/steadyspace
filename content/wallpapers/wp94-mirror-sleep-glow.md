@@ -49,8 +49,8 @@ keywords = ["gradient wallpapers", "glow wallpaper", "radial gradient wallpaper"
 
 <!-- haiku -->
 <p class="haiku">
-<i>Dusk breathes on the glass,
-soft reflections fade to blue -
+<i>Dusk breathes on the glass,<br>
+soft reflections fade to blue -<br>
 the dream keeps its shape.</i> 🌫
 </p>
 </section>
