@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Electronic on steady space</title>
+    <link>http://localhost:1313/tags/electronic/</link>
+    <description>Recent content in Electronic on steady space</description>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/electronic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wallpaper Pack 84: Signal Bloom Glow</title>
+      <link>http://localhost:1313/wallpapers/wp84-signal-bloom-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp84-signal-bloom-glow/</guid>
+      <description>Signal Bloom Glow catches the point where circuitry meets soil — coral, green, and slate merging into an organic pulse. A radiant balance of synthetic energy and living calm. Includes 13 wallpaper sizes and a palette PDF.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 85: Signal Bloom Levels</title>
+      <link>http://localhost:1313/wallpapers/wp85-signal-bloom-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp85-signal-bloom-levels/</guid>
+      <description>Signal Bloom Levels brings coral, green, and slate into balance — a structured bloom where energy becomes pattern. Grounded yet vibrant, it turns signal into rhythm. Includes 13 wallpaper sizes and a palette PDF.</description>
+    </item>
+  </channel>
+</rss>

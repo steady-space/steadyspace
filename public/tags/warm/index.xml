@@ -15,6 +15,13 @@
       <description>A wallpaper bundle featuring Sunset Levels, Pastel Calm Levels, and Dark Mode Levels packs. Includes multiple device sizes for desktop, tablet, and mobile.</description>
     </item>
     <item>
+      <title>Wallpaper Duo Pack: Asteroid Petal Glow &amp; Levels</title>
+      <link>http://localhost:1313/wallpapers/wp-asteroid-petal-duo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-asteroid-petal-duo/</guid>
+      <description>Asteroid Petal Duo is a cosmic-floral wallpaper bundle — radiant Glow and structured Levels combine violet, peach, and flame into a blooming spectrum for every screen. Includes 13 sizes for desktop, tablet, and mobile, plus a PDF palette and reversed version.</description>
+    </item>
+    <item>
       <title>Wallpaper Pack 01: Sunset Levels</title>
       <link>http://localhost:1313/wallpapers/wp01-sunset-levels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,6 +209,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wallpapers/wp75-iridescent-loom-levels/</guid>
       <description>A pastel wallpaper pack layering violet, pink, and mint tones into soft horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 92: Asteroid Petal Glow</title>
+      <link>http://localhost:1313/wallpapers/wp92-asteroid-petal-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp92-asteroid-petal-glow/</guid>
+      <description>Asteroid Petal Glow blends cosmic depth and organic warmth. Violet fades to peach and molten orange — a soft explosion of color caught between orbit and ember. Includes 13 wallpapers for desktop, tablet, and mobile, plus a PDF palette and reversed version.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 93: Asteroid Petal Levels</title>
+      <link>http://localhost:1313/wallpapers/wp93-asteroid-petal-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp93-asteroid-petal-levels/</guid>
+      <description>Asteroid Petal Levels is a cosmic-floral wallpaper pack turning orbit into pattern — violet, cream, and flame in structured bloom. Includes 13 wallpapers for desktop, tablet, and mobile, plus a PDF palette and reversed version.</description>
     </item>
   </channel>
 </rss>

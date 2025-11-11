@@ -57,6 +57,13 @@
       <description></description>
     </item>
     <item>
+      <title>Bioluminescent</title>
+      <link>http://localhost:1313/tags/bioluminescent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/bioluminescent/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Blue</title>
       <link>http://localhost:1313/tags/blue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -211,6 +218,13 @@
       <description></description>
     </item>
     <item>
+      <title>Cream</title>
+      <link>http://localhost:1313/tags/cream/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cream/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cyan</title>
       <link>http://localhost:1313/tags/cyan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -281,6 +295,13 @@
       <description></description>
     </item>
     <item>
+      <title>Duo</title>
+      <link>http://localhost:1313/tags/duo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/duo/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dusk</title>
       <link>http://localhost:1313/tags/dusk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -299,6 +320,13 @@
       <link>http://localhost:1313/tags/electric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/electric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Electronic</title>
+      <link>http://localhost:1313/tags/electronic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/electronic/</guid>
       <description></description>
     </item>
     <item>
@@ -505,6 +533,20 @@
       <description></description>
     </item>
     <item>
+      <title>Lavender</title>
+      <link>http://localhost:1313/tags/lavender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lavender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Layers</title>
+      <link>http://localhost:1313/tags/layers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/layers/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Levels</title>
       <link>http://localhost:1313/tags/levels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -666,6 +708,13 @@
       <description></description>
     </item>
     <item>
+      <title>Oceanic</title>
+      <link>http://localhost:1313/tags/oceanic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/oceanic/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Opalescent</title>
       <link>http://localhost:1313/tags/opalescent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -687,6 +736,13 @@
       <description></description>
     </item>
     <item>
+      <title>Pale Green</title>
+      <link>http://localhost:1313/tags/pale-green/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pale-green/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Pastel</title>
       <link>http://localhost:1313/tags/pastel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -698,6 +754,13 @@
       <link>http://localhost:1313/tags/pastel-calm-levels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/pastel-calm-levels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peach</title>
+      <link>http://localhost:1313/tags/peach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/peach/</guid>
       <description></description>
     </item>
     <item>
@@ -761,6 +824,20 @@
       <link>http://localhost:1313/tags/radial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/radial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radial Glow</title>
+      <link>http://localhost:1313/tags/radial-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/radial-glow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Radial Gradient</title>
+      <link>http://localhost:1313/tags/radial-gradient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/radial-gradient/</guid>
       <description></description>
     </item>
     <item>
@@ -880,6 +957,13 @@
       <link>http://localhost:1313/tags/sky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sky Blue</title>
+      <link>http://localhost:1313/tags/sky-blue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sky-blue/</guid>
       <description></description>
     </item>
     <item>
@@ -1027,6 +1111,13 @@
       <link>http://localhost:1313/tags/verdant-levels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/verdant-levels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vibrant</title>
+      <link>http://localhost:1313/tags/vibrant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vibrant/</guid>
       <description></description>
     </item>
     <item>

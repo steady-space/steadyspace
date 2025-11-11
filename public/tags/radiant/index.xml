@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/radiant/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Wallpaper Duo Pack: Asteroid Petal Glow &amp; Levels</title>
+      <link>http://localhost:1313/wallpapers/wp-asteroid-petal-duo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp-asteroid-petal-duo/</guid>
+      <description>Asteroid Petal Duo is a cosmic-floral wallpaper bundle — radiant Glow and structured Levels combine violet, peach, and flame into a blooming spectrum for every screen. Includes 13 sizes for desktop, tablet, and mobile, plus a PDF palette and reversed version.</description>
+    </item>
+    <item>
       <title>Wallpaper Pack 24: Solar Drift Glow</title>
       <link>http://localhost:1313/wallpapers/wp24-solar-drift-glow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +41,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wallpapers/wp69-halo-verge-levels/</guid>
       <description>A serene wallpaper pack layering indigo, turquoise, and pale gold into calm horizontal gradients.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 88: Static Garden Glow</title>
+      <link>http://localhost:1313/wallpapers/wp88-static-garden-glow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp88-static-garden-glow/</guid>
+      <description>Static Garden Glow hums like a signal softened by spring. Dusty pinks, pale greens, and sky blues blur into quiet interference. Includes 13 wallpapers for desktop, tablet, and mobile, plus a PDF palette and reversed version.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 89: Static Garden Levels</title>
+      <link>http://localhost:1313/wallpapers/wp89-static-garden-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp89-static-garden-levels/</guid>
+      <description>Static Garden Levels arranges pastel chaos into rhythm. Bands of lilac, mint, and amber shift like woven fabric under soft light. Includes 13 wallpapers for desktop, tablet, and mobile, plus a PDF palette and reversed version.</description>
+    </item>
+    <item>
+      <title>Wallpaper Pack 93: Asteroid Petal Levels</title>
+      <link>http://localhost:1313/wallpapers/wp93-asteroid-petal-levels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wallpapers/wp93-asteroid-petal-levels/</guid>
+      <description>Asteroid Petal Levels is a cosmic-floral wallpaper pack turning orbit into pattern — violet, cream, and flame in structured bloom. Includes 13 wallpapers for desktop, tablet, and mobile, plus a PDF palette and reversed version.</description>
     </item>
   </channel>
 </rss>

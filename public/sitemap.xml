@@ -25,6 +25,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/berry/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/bioluminescent/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/blue/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/blues/</loc>
@@ -77,6 +79,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/cosmic-drift-levels/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/cream/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/cyan/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/cyberpunk/</loc>
@@ -97,11 +101,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/dreamlike/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/duo/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/dusk/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/earthy/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/electric/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/electronic/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/ember/</loc>
   </url><url>
@@ -161,6 +169,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/lavendars/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/lavender/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/layers/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/levels/</loc>
   </url><url>
     <loc>http://localhost:1313/wallpapers/wp-levels-collection-bold-volume-1/</loc>
@@ -219,6 +231,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/ocean-calm-levels/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/oceanic/</loc>
+  </url><url>
     <loc>http://localhost:1313/offerings/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/opalescent/</loc>
@@ -227,9 +241,13 @@
   </url><url>
     <loc>http://localhost:1313/tags/oranges/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/pale-green/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/pastel/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/pastel-calm-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/peach/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/peaches/</loc>
   </url><url>
@@ -248,6 +266,10 @@
     <loc>http://localhost:1313/tags/purples/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/radial/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/radial-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/radial-gradient/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/radiant/</loc>
   </url><url>
@@ -284,6 +306,8 @@
     <loc>http://localhost:1313/tags/silvers/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/sky/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/sky-blue/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/slate/</loc>
   </url><url>
@@ -331,7 +355,11 @@
   </url><url>
     <loc>http://localhost:1313/tags/verdant-levels/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/vibrant/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/violet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp-asteroid-petal-duo/</loc>
   </url><url>
     <loc>http://localhost:1313/wallpapers/wp01-sunset-levels/</loc>
   </url><url>
@@ -494,6 +522,30 @@
     <loc>http://localhost:1313/wallpapers/wp80-chromaflux-glow/</loc>
   </url><url>
     <loc>http://localhost:1313/wallpapers/wp81-chromaflux-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp82-prism-tide-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp83-prism-tide-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp84-signal-bloom-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp85-signal-bloom-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp86-neon-vein-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp87-neon-vein-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp88-static-garden-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp89-static-garden-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp90-orbit-moss-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp91-orbit-moss-levels/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp92-asteroid-petal-glow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wallpapers/wp93-asteroid-petal-levels/</loc>
   </url><url>
     <loc>http://localhost:1313/wallpapers/</loc>
   </url><url>
