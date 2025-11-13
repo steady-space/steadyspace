@@ -23,7 +23,7 @@ payhip  = "https://payhip.com/b/FvxRJ"
 gumroad = "https://steadyspace.gumroad.com/l/wp96_velvetradioglow"
 
 # tags
-tags = ["glow", "rose", "pink", "retro", "indigo", "blue", "soft", "mauve", "nostalgia", "nostalgic"]
+tags = ["glow", "rose", "pink", "retro", "indigo", "velvet", "warm", "dusk", "blue", "soft", "mauve", "nostalgia", "nostalgic"]
 
 # meta
 description = "Velvet Radio Glow hums like color caught in transmission — peach, rose, and indigo blending through soft static and memory. Includes 13 wallpapers for desktop, tablet, and mobile, plus a PDF palette and reversed versions."
